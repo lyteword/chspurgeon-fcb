@@ -1,6 +1,8 @@
-# Faith’s Checkbook Edition - Markdown Edition
+# Faith’s Checkbook - Markdown Edition
 
 This project brings *Faith’s Checkbook*, the beloved devotional by nineteenth-century British preacher Charles H. Spurgeon—known as the "Prince of Preachers"—to a new digital format optimized for modern reading and reflection. 
+
+> *Faith’s Checkbook* is a daily encounter with God’s promises. "A promise from God may very instructively be compared to a check payable to order. It is given to the believer with the view of bestowing upon him some good." Through these meditations, you are invited to “cash in” these promises, trusting God’s faithfulness to fulfill His word in every season.  
 
 *Faith’s Checkbook* is crafted to help you examine life through the lens of biblical promises, offering daily devotional insights, reflections, and spiritual encouragement.
 
@@ -28,12 +30,3 @@ Each entry includes:
 - *Theologically Rich:* Spurgeon’s blend of doctrine and practical piety is preserved.
 - *Faithful Style:* Elegant, reflective, and accessible prose, encouraging deep connection to scripture.
 
-## Faith’s Checkbook: A Purposeful Overview
-
-> *Faith’s Checkbook* is a daily encounter with God’s promises.  
-> "A promise from God may very instructively be compared to a check payable to order. It is given to the believer with the view of bestowing upon him some good."  
-> Through these meditations, you are invited to “cash in” these promises, trusting God’s faithfulness to fulfill His word in every season.  
-
-## Usage
-
-Clone or download the repository to access the Markdown files. Open them in any Markdown viewer or editor to read or repurpose the content.
