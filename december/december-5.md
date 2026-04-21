@@ -1,6 +1,6 @@
-## December 5 - High Places Of Defense
+# December 5 - High Places Of Defense
 
-*"He shall dwell on high: his place of defense shall be the munitions of rocks: bread shall be given him; his waters shall be sure" * &mdash; Isa. 33:16
+*"He shall dwell on high: his place of defense shall be the munitions of rocks: bread shall be given him; his waters shall be sure"* &mdash; Isa. 33:16
 
 The man to whom God has given grace to be of blameless life dwells in perfect security.
 

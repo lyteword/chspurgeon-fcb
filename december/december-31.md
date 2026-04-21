@@ -1,6 +1,6 @@
-## December 31 - No Stranger In Heaven
+# December 31 - No Stranger In Heaven
 
-*"Thou shalt guide me with thy counsel, and afterward receive me to glory" * &mdash; Ps. 73:24
+*"Thou shalt guide me with thy counsel, and afterward receive me to glory"* &mdash; Ps. 73:24
 
 From day to day and from year to year my faith believes in the wisdom and love of God, and I know that I shall not believe in vain. No good word of His has ever failed, and I am sure that none shall ever fall to the ground.
 

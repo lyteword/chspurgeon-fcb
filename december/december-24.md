@@ -1,6 +1,6 @@
-## December 24 - Over Jordan With Singing
+# December 24 - Over Jordan With Singing
 
-*"Thine enemies shall be found liars unto thee" * &mdash; Deut. 33:29
+*"Thine enemies shall be found liars unto thee"* &mdash; Deut. 33:29
 
 That arch-enemy, the devil, is a liar from the beginning; but he is so very plausible that, like mother Eve, we are led to believe him. Yet in our experience we shall prove him a liar.
 
