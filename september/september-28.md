@@ -1,6 +1,6 @@
-## Sept. 28 - Work Is Done; Rest In Him
+# Sept. 28 - Work Is Done; Rest In Him
 
-*"There remaineth therefore a rest to the people of God" * &mdash; Heb. 4:9
+*"There remaineth therefore a rest to the people of God"* &mdash; Heb. 4:9
 
 God has provided a Sabbath, and some must enter into it. Those to whom it was first preached entered not in because of unbelief; therefore, that Sabbath remains for the people of God. David sang of it; but he had to touch the minor key, for Israel refused the rest of God. Joshua could not give it, nor Canaan yield it: it remains for believers.
 

@@ -1,6 +1,6 @@
-## Sept. 9 - Fear Has Its Place
+# Sept. 9 - Fear Has Its Place
 
-*"Happy is the man that feareth alway" * &mdash; Prov. 28:14
+*"Happy is the man that feareth alway"* &mdash; Prov. 28:14
 
 The fear of the Lord is the beginning and the foundation of all true religion. Without a solemn awe and reverence of God there is no foothold for the more brilliant virtues. He whose soul does not worship will never live in holiness.
 
