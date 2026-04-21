@@ -1,6 +1,6 @@
-## August 29 - Plentiful Refreshment
+# August 29 - Plentiful Refreshment
 
-*"Their soul shall be as a watered garden" * &mdash; Jer. 31:12
+*"Their soul shall be as a watered garden"* &mdash; Jer. 31:12
 
 Oh, to have one's soul under heavenly cultivation; no longer a wilderness, but a garden of the Lord! Enclosed from the waste, walled around by grace, planted by instruction, visited by love, weeded by heavenly discipline, and guarded by divine power, one's favored soul is prepared to yield fruit unto the Lord.
 
