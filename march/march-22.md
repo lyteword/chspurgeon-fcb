@@ -1,6 +1,6 @@
-## March 22 - Grace For The Humble
+# March 22 - Grace For The Humble
 
-*"He giveth grace unto the humble" * &mdash; James 4:6
+*"He giveth grace unto the humble"* &mdash; James 4:6
 
 Humble hearts seek grace, and therefore they get it. Humble hearts yield to the sweet influences of grace, and so it is bestowed on them more and more largely. Humble hearts lie in the valleys where streams of grace are flowing, and hence they drink of them. Humble hearts are grateful for grace and give the Lord the glory of it, and hence it is consistent with His honor to give it to them.
 

@@ -1,6 +1,6 @@
-## March 26 - The Care Of The Poor
+# March 26 - The Care Of The Poor
 
-*"The Lord will strengthen him upon the bed of languishing" * &mdash; Ps. 41:3
+*"The Lord will strengthen him upon the bed of languishing"* &mdash; Ps. 41:3
 
 Remember that this is a promise to the man who considers the poor. Are you one of these? Then take home the text.
 

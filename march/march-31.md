@@ -1,6 +1,6 @@
-## March 31 - Presence Of Mind
+# March 31 - Presence Of Mind
 
-*"Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh. For the Lord shall be thy confidence, and shall keep thy foot from being taken" * &mdash; Prov. 3
+*"Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh. For the Lord shall be thy confidence, and shall keep thy foot from being taken"* &mdash; Prov. 3
 
 When God is abroad in judgments, He would not have His people alarmed. He has not come forth to harm, but to defend the righteous.
 
