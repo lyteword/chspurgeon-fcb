@@ -1,6 +1,6 @@
-## October 26 - Because Of Us
+# October 26 - Because Of Us
 
-*"For the elect's sake those days be shortened" * &mdash; Matt. 24:22
+*"For the elect's sake those days be shortened"* &mdash; Matt. 24:22
 
 For the sake of His elect the Lord withholds many judgments, and shortens others. In great tribulations the fire would devour all were it not that out of regard to His elect the Lord damps the flame. Thus, while He saves His elect for the sake of Jesus, He also preserves the race for the sake of His chosen.
 

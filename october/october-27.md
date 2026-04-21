@@ -1,6 +1,6 @@
-## October 27 - His Service, Face, Name
+# October 27 - His Service, Face, Name
 
-*"His servants shall serve him: and they shall see his face; and his name shall be in their foreheads" * &mdash; Rev. 22:3
+*"His servants shall serve him: and they shall see his face; and his name shall be in their foreheads"* &mdash; Rev. 22:3
 
 Three choice blessings will be ours in the glory land.
 

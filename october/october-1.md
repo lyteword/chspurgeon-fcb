@@ -1,6 +1,6 @@
-## October 1 - A Covenant He Remembers
+# October 1 - A Covenant He Remembers
 
-*"He hath given meat unto them that fear him: he will ever be mindful of his covenant" * &mdash; Ps. 111:5
+*"He hath given meat unto them that fear him: he will ever be mindful of his covenant"* &mdash; Ps. 111:5
 
 Those who fear God need not fear want. Through all these long years the Lord has always found meat for His own children, whether they have been in the wilderness, or by the brook Cherith, or in captivity, or in the midst of famine. Hitherto the Lord has given us day by day our daily bread, and we doubt not that He will continue to feed us till we want no more.
 

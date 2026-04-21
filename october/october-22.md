@@ -1,6 +1,6 @@
-## October 22 - Plead His Own Promise
+# October 22 - Plead His Own Promise
 
-*"Thou, O Lord God, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever" * &mdash; II Sam. 7:29
+*"Thou, O Lord God, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever"* &mdash; II Sam. 7:29
 
 This is a promise pleaded, and so it yields double instruction to us. Anything which the Lord God has spoken we should receive as surely true, and then plead it at the throne.
 
