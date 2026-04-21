@@ -1,4 +1,4 @@
-## January 30 - A Heavenly Escort
+# January 30 - A Heavenly Escort
 
 *"And, behold, I am with thee, and will keep thee in all places whither thou goest."* &mdash; Gen. 28:15
 

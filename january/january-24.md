@@ -1,4 +1,4 @@
-## January 24 - Care Of Our Feet
+# January 24 - Care Of Our Feet
 
 *"He will keep the feet of his saints."* &mdash; I Sam. 2:9
 

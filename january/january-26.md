@@ -1,4 +1,4 @@
-## January 26 - God Routs Fear
+# January 26 - God Routs Fear
 
 *"Surely there is no enchantment against Jacob, neither is there any divination against Israel."* &mdash; Num. 23:23
 

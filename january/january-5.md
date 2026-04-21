@@ -1,4 +1,4 @@
-## January 5 - A Wonderful Guarantee
+# January 5 - A Wonderful Guarantee
 
 *"I will strengthen thee."* &mdash; Isa. 41:10
 

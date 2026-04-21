@@ -1,4 +1,4 @@
-## January 20 - The Overcomer
+# January 20 - The Overcomer
 
 *"To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God."* &mdash; Rev. 2:7
 

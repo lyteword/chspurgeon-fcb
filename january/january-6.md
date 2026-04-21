@@ -1,4 +1,4 @@
-## January 6 - Help From Without
+# January 6 - Help From Without
 
 *"Yea, I will help thee."* &mdash; Isa. 41:10
 

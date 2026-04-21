@@ -1,4 +1,4 @@
-## January 31 - God Always Hears
+# January 31 - God Always Hears
 
 *"My God will hear me."* &mdash; Micah 7:7
 

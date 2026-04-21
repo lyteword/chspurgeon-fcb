@@ -1,4 +1,4 @@
-## January 2 - Conquest To Victory
+# January 2 - Conquest To Victory
 
 *"And the God of peace shall bruise Satan under your feet shortly."* &mdash; Rom. 16:20
 

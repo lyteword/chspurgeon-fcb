@@ -1,4 +1,4 @@
-## January 13 - Never Cast Out
+# January 13 - Never Cast Out
 
 *"Him that cometh to me I will in no wise cast out."* &mdash; John 6:37
 

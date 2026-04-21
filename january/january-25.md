@@ -1,4 +1,4 @@
-## January 25 - He Acts On Honest Confession
+# January 25 - He Acts On Honest Confession
 
 *"He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not; he will deliver his soul from going into the pit, and his life shall see the light."* &mdash; Job 33:27
 

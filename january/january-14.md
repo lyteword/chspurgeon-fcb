@@ -1,4 +1,4 @@
-## January 14 - Rest Is A Gift
+# January 14 - Rest Is A Gift
 
 *"Come unto me, all ye that labor and are heavy laden, and I will give you rest."* &mdash; Matt. 11:28
 

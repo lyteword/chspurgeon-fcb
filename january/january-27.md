@@ -1,4 +1,4 @@
-## January 27 - Precious Repentance
+# January 27 - Precious Repentance
 
 *"And there shall ye remember your ways, and all your doings, wherein ye have been defiled; and ye shall loathe yourselves in your own sight for all your evils that ye have committed."* &mdash; Ezek. 20:43
 

@@ -1,4 +1,4 @@
-## January 19 - Mouth Confession; Heart Belief
+# January 19 - Mouth Confession; Heart Belief
 
 *"If thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."* &mdash; Rom. 10:9
 

@@ -1,4 +1,4 @@
-## January 4 - In Calm Repose
+# January 4 - In Calm Repose
 
 *"I will make them to lie down safely."* &mdash; Hos. 2:18
 

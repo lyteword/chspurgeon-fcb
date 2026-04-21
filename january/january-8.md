@@ -1,4 +1,4 @@
-## January 8 - Purity Of Heart And Life
+# January 8 - Purity Of Heart And Life
 
 *"Blessed are the pure in heart: for they shall see God."* &mdash; Matt. 5:8
 

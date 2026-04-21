@@ -1,4 +1,4 @@
-## January 9 - Gaining By Giving
+# January 9 - Gaining By Giving
 
 *"The liberal soul shall be made fat."* &mdash; Prov. 11:25
 

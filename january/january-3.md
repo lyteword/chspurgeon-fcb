@@ -1,4 +1,4 @@
-## January 3 - Rest On A Promise
+# January 3 - Rest On A Promise
 
 *"The land whereon thou liest, to thee will I give it."* &mdash; Gen. 28:13
 
