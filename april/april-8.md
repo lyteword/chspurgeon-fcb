@@ -1,6 +1,6 @@
-## April 8 - Preserved To Works End
+# April 8 - Preserved To Works End
 
-*"The Lord stood by him, and said, Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome" * &mdash; Acts 23:11
+*"The Lord stood by him, and said, Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome"* &mdash; Acts 23:11
 
 Are you a witness for the Lord, and are you just now in danger? Then remember that you are immortal till your work is done. If the Lord has more witness for you to bear, you will live to bear it. Who is he that can break the vessel which the Lord intends again to use?
 

@@ -1,6 +1,6 @@
-## April 21 - God Repays
+# April 21 - God Repays
 
-*"He that hath pity upon the poor lendeth unto the Lord; and that which he hath given will he pay him again" * &mdash; Prov. 19:17
+*"He that hath pity upon the poor lendeth unto the Lord; and that which he hath given will he pay him again"* &mdash; Prov. 19:17
 
 We are to give to the poor out of pity. Not to be seen and applauded, much less to get influence over them; but out of pure sympathy and compassion we must give them help.
 
