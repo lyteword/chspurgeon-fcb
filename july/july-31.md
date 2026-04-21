@@ -1,6 +1,6 @@
-## July 31 - An Appeal; Deliverance
+# July 31 - An Appeal; Deliverance
 
-*"And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me." * &mdash; Ps. 50:15
+*"And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me."* &mdash; Ps. 50:15
 
 This is a promise indeed!
 

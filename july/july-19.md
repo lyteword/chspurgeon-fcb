@@ -1,6 +1,6 @@
-## July 19 - Heavy Duty Shoes
+# July 19 - Heavy Duty Shoes
 
-*"Thy shoes shall be iron and brass; and as thy days, so shall thy strength be." * &mdash; Deut. 33:25
+*"Thy shoes shall be iron and brass; and as thy days, so shall thy strength be."* &mdash; Deut. 33:25
 
 Here are two things provided for the pilgrim: shoes and strength.
 

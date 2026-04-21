@@ -1,6 +1,6 @@
-## July 3 - A Guide All The Way
+# July 3 - A Guide All The Way
 
-*"He will be our guide even unto death" * &mdash; Ps. 48:14
+*"He will be our guide even unto death"* &mdash; Ps. 48:14
 
 We need a guide. Sometimes we would give all that we have to be told exactly what to do, and where to turn. We are willing to do right, but we do not know which out of two roads we are to follow. Oh, for a guide!
 
