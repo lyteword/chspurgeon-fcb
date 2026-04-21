@@ -1,6 +1,6 @@
 ## January 23 - A Completed Sacrifice
 
-*"And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him." * &mdash; Lev. 1:4
+*"And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him."* &mdash; Lev. 1:4
 
 If by that laying on of his hand the bullock became the offerer's sacrifice, how much more shall Jesus become ours by the laying on of the hand of faith?
 
