@@ -1,6 +1,6 @@
-## November 12 - Sanctified Souls Are Satisfied
+# November 12 - Sanctified Souls Are Satisfied
 
-*"My people shall be satisfied with my goodness, saith the Lord" * &mdash; Jer. 31:14
+*"My people shall be satisfied with my goodness, saith the Lord"* &mdash; Jer. 31:14
 
 Note the "my" which comes twice: "My people shall be satisfied with my goodness."
 

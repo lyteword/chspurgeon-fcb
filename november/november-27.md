@@ -1,6 +1,6 @@
-## November 27 - Rest In All Thy Goings
+# November 27 - Rest In All Thy Goings
 
-*"And he said, My presence shall go with thee, and I will give thee rest" * &mdash; Ex. 33:14
+*"And he said, My presence shall go with thee, and I will give thee rest"* &mdash; Ex. 33:14
 
 Precious promise! Lord, enable me to appropriate it as all my own.
 

@@ -1,6 +1,6 @@
-## November 17 - God Never Forsakes
+# November 17 - God Never Forsakes
 
-*"For the Lord will not cast off his people, neither will he forsake his inheritance" * &mdash; Ps. 94:14
+*"For the Lord will not cast off his people, neither will he forsake his inheritance"* &mdash; Ps. 94:14
 
 No, nor will He cast even so much as one of them. Man has his cast-offs, but God has none; for His choice is unchangeable, and His love is everlasting. None can find out a single person whom God has forsaken after having revealed Himself savingly to him.
 

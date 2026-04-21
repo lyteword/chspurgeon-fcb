@@ -1,6 +1,6 @@
-## November 23 - Acquiring Perseverance
+# November 23 - Acquiring Perseverance
 
-*"The Lord thy God will put out those nations before thee by little and little" * &mdash; Deut. 7:22
+*"The Lord thy God will put out those nations before thee by little and little"* &mdash; Deut. 7:22
 
 We are not to expect to win victories for the Lord Jesus by a single blow. Evil principles and practices die hard. In some places it takes years of labor to drive out even one of the many vices which defile the inhabitants. We must carry on the war with all our might, even when favored with little manifest success.
 

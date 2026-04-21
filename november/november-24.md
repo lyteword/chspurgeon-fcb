@@ -1,6 +1,6 @@
-## November 24 - Pardon And Forgiveness
+# November 24 - Pardon And Forgiveness
 
-*"He will not always chide: neither will he keep his anger for ever" * &mdash; Ps. 103:9
+*"He will not always chide: neither will he keep his anger for ever"* &mdash; Ps. 103:9
 
 He will chide sometimes, or He would not be a wise Father for such poor erring children as we are. His chiding is very painful to those who are true, because they feel how sadly they deserve it, and how wrong it is on their part to grieve Him. We know what this chiding means, and we bow before the Lord, mourning that we should cause Him to be angry with us.
 
