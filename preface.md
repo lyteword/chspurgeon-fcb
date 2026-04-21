@@ -1,3 +1,5 @@
+# Preface
+
 A promise from God may very instructively be compared to a check
 payable to order. It is given to the believer with the view of
 bestowing upon him some good thing. It is not meant that he should

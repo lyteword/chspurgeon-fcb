@@ -1,3 +1,5 @@
+# Verse Index
+
 ## Genesis
 
 Gen. 3:15 -- Jan. 1
