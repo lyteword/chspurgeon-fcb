@@ -1,6 +1,6 @@
-## June 19 - A Sound Heart
+# June 19 - A Sound Heart
 
-*"Let my heart be sound in thy statutes: that I be not ashamed" * &mdash; Ps. 119:80
+*"Let my heart be sound in thy statutes: that I be not ashamed"* &mdash; Ps. 119:80
 
 We may regard this inspired prayer as containing within itself the assurance that those who keep close to the Word of God shall never have cause to be ashamed of doing so.
 

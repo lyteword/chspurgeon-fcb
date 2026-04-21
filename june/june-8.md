@@ -1,6 +1,6 @@
-## June 8 - Wisdom For The Asking
+# June 8 - Wisdom For The Asking
 
-*"If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him." * &mdash; James 1:5
+*"If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."* &mdash; James 1:5
 
 "If any of you lack wisdom." There is no "if" in the matter, for I am sure I lack it. What do I know? How can I guide my own way? How can I direct others? Lord, I am a mass of folly, and wisdom I have none.
 

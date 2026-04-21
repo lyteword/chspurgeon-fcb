@@ -1,6 +1,6 @@
-## June 26 - It Will Not Be Long
+# June 26 - It Will Not Be Long
 
-*"Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh" * &mdash; James 5:8
+*"Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh"* &mdash; James 5:8
 
 The last word in the Canticle of love is, "Make haste, my beloved," and among the last words of the Apocalypse we read, "The Spirit and the Bride say, Come"; to which the heavenly Bridegroom answers, "Surely I come quickly." Love longs for the glorious appearing of the Lord, and enjoys this sweet promise -- "The coming of the Lord draweth nigh." This stays our minds as to the future. We look out with hope through this window.
 
