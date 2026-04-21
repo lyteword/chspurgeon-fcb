@@ -1,6 +1,6 @@
-## February 1 - Never Despair
+# February 1 - Never Despair
 
-*"But unto you that fear my name shall the Sun of righteousness arise with healing in his wings" * &mdash; Mal. 4:2
+*"But unto you that fear my name shall the Sun of righteousness arise with healing in his wings"* &mdash; Mal. 4:2
 
 Fulfilled once in the first advent of our glorious Lord, and yet to have a fuller accomplishment in His second advent, this gracious word is also for daily use. Is it dark with the reader? Does the night deepen into a denser blackness? Still let us not despair: the sun will yet rise. When the night is darkest, dawn is nearest.
 

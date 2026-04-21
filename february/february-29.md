@@ -1,6 +1,6 @@
-## February 29 - What Follows Us
+# February 29 - What Follows Us
 
-*"Surely goodness and mercy shall follow me all the days of my life" * &mdash; Ps. 23:6
+*"Surely goodness and mercy shall follow me all the days of my life"* &mdash; Ps. 23:6
 
 A devout poet sings-
 

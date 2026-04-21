@@ -1,6 +1,6 @@
-## February 25 - Set Apart
+# February 25 - Set Apart
 
-*"Ye shall be named the priests of the Lord" * &mdash; Isa. 61:6
+*"Ye shall be named the priests of the Lord"* &mdash; Isa. 61:6
 
 This literal promise to Israel belongs spiritually to the seed after the Spirit, namely, to all believers. If we live up to our privileges, we shall live unto God so clearly and distinctly, that men shall see that we are set apart for holy service, and shall name us the priests of the Lord. We may work, or trade, as others do, and yet we may be solely and wholly the ministering servants of God. Our one occupation shall be to present the perpetual sacrifice of prayer, and praise, and testimony, and self-consecration, to the living God by Jesus Christ.
 
