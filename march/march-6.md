@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # March 6 - Guardian Of The Fatherless
 
 *"In thee the fatherless findeth mercy"* &mdash; Hos. 14:3

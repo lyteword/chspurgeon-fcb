@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # March 1 - Joy For The Cast-out
 
 *"Hear the word of the Lord, ye that tremble at his word; Your brethren that hated you, that cast you out for my name's sake, said, Let the Lord be glorified: but he shall appear to your joy, and they shall be ashamed"* &mdash; Isa. 66:5

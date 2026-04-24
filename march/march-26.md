@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # March 26 - The Care Of The Poor
 
 *"The Lord will strengthen him upon the bed of languishing"* &mdash; Ps. 41:3

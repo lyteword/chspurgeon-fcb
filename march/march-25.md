@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # March 25 - Refreshing Sleep
 
 *"When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet"* &mdash; Prov. 3:24

@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # March 18 - Continue Upright
 
 *"The prayer of the upright is his delight"* &mdash; Prov. 15:8

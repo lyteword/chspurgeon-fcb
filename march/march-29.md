@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # March 29 - Dauntless Faith
 
 *"I am with thee, and no man shall set on thee to hurt thee"* &mdash; Acts 18:10

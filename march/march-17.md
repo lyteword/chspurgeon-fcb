@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # March 17 - Fear To Fear
 
 *"Be not afraid of their faces: for I am with thee to deliver thee, saith the Lord"* &mdash; Jer. 1:8

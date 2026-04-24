@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # March 23 - A Sure Guide
 
 *"I will bring the blind by a way that they knew not"* &mdash; Isa. 42:16

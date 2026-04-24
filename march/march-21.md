@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # March 21 - Avoid That Slip
 
 *"Then shalt thou walk in thy way safely, and thy foot shall not stumble"* &mdash; Prov. 3:23

@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # March 5 - Home Blessings
 
 *"He blesseth the habitation of the just"* &mdash; Prov. 3:33

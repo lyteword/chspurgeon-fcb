@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # March 10 - Walk In Light
 
 *"I am come a light into the world, that whosoever believeth on me should not abide in darkness"* &mdash; John 12:46

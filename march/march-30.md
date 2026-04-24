@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # March 30 - Prayer, Thanksgiving, Praise
 
 *"Be careful for nothing; but in everything by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus"* &mdash; Phil. 4:6

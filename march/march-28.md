@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # March 28 - Lead The Way
 
 *"The Lord shall make thee the head, and not the tail"* &mdash; Deut. 28:13

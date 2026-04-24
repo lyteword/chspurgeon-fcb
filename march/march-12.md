@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # March 12 - Going Out With Joy
 
 *"And of Zebulun he said, Rejoice, Zebulun, in thy going out"* &mdash; Deut. 33:18

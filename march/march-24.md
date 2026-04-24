@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # March 24 - Established And Kept
 
 *"But the Lord is faithful, who shall stablish you, and keep you from evil"* &mdash; II Thess. 3:3

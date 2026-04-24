@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # March 22 - Grace For The Humble
 
 *"He giveth grace unto the humble"* &mdash; James 4:6

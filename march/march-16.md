@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # March 16 - To Others An "ensample"
 
 *"Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you"* &mdash; Phil. 4:9

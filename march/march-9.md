@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # March 9 - Prayer For Peace
 
 *"And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the Lord for it: for in the peace thereof shall ye have peace"* &mdash; Jer. 29:7

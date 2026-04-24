@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # March 4 - Honor God
 
 *"Them that honor me I will honor"* &mdash; I Sam. 2:30

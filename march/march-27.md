@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # March 27 - Drawing Near To God
 
 *"Draw nigh to God, and he will draw nigh to you"* &mdash; James 4:8

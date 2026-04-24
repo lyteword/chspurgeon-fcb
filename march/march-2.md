@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # March 2 - Giving Without A Whisper
 
 *"But when thou doest alms, let not thy left hand know what thy right hand doeth: that thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly"* &mdash; Matt. 6:3

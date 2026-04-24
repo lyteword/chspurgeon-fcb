@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # March 8 - Our Substance Blessed
 
 *"Blessed shall be thy basket and thy store"* &mdash; Deut. 28:5

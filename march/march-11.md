@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # March 11 - Whose Battle?
 
 *"And all this assembly shall know that the Lord saveth not with sword and spear: for the battle is the Lord's, and he will give you into our hands"* &mdash; I Sam. 17:47

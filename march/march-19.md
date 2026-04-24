@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # March 19 - Becoming Fit For Glory
 
 *"The Lord will give grace and glory"* &mdash; Ps. 84:11
