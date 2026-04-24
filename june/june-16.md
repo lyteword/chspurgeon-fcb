@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # June 16 - Possess Not Only Profess
 
 *"For whosoever hath, to him shall be given, and he shall have more abundance"* &mdash; Matt. 13:12

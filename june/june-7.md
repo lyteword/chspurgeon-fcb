@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # June 7 - The Safest Place
 
 *"And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."* &mdash; John 10:28

@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # June 12 - Dwelling Safely Apart
 
 *"Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also his heavens shall drop down dew"* &mdash; Deut. 33:28

@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # June 27 - Thank Him; Dwell Acceptably
 
 *"Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence"* &mdash; Ps. 140:13

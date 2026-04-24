@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # June 22 - He With Us; We With Him
 
 *"The fear of the Lord prolongeth days: but the years of the wicked shall be shortened"* &mdash; Prov. 10:27

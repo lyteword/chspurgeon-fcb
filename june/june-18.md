@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # June 18 - God Himself Shall Work
 
 *"Now will I rise, saith the Lord; now will I be exalted; now will I lift up myself"* &mdash; Isa. 33:10

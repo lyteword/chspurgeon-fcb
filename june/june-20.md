@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # June 20 - The Lord Our Companion
 
 *"Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me"* &mdash; Ps. 23:4

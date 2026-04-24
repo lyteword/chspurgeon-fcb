@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # June 4 - Exceedingly Precious
 
 *"They shall be mine, saith the Lord of hosts, in that day when I make up my jewels."* &mdash; Mal. 3:17

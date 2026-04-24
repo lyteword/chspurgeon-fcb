@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # June 29 - Invitation To Pray
 
 *"Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not"* &mdash; Jer. 33:3

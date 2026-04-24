@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # June 1 - God's Promise Keeps
 
 *"Cast thy bread upon the waters: for thou shalt find it after many days."* &mdash; Eccl. 11:1

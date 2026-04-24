@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # June 10 - A Shepherd Secures Them
 
 *"They shall feed and lie down, and none shall make them afraid"* &mdash; Zeph. 3:13

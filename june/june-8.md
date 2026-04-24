@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # June 8 - Wisdom For The Asking
 
 *"If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."* &mdash; James 1:5

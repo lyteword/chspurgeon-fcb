@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # June 6 - He Always Listens
 
 *"The Lord hath heard my supplication; the Lord will receive my prayer."* &mdash; Ps. 6:9

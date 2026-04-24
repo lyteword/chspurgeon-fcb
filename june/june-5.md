@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # June 5 - Is There A Difference?
 
 *"But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel."* &mdash; Exod. 11:7

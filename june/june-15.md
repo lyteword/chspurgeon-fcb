@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # June 15 - Home Blessings Extended
 
 *"The Lord shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life"* &mdash; Ps. 128:5

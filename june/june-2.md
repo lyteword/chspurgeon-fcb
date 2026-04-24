@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # June 2 - Immediate Freedom
 
 *"For now will I break his yoke from off thee, and will burst thy bonds in sunder."* &mdash; Nahum 1:13

@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # June 14 - He Constantly Abides
 
 *"For the Lord will not forsake his people for his great name's sake; because it hath pleased the Lord to make you his people."* &mdash; I Sam. 12:22

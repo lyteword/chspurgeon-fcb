@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # June 23 - The Enemy Firsthand
 
 *"Therefore thus saith the Lord concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it"* &mdash; II Kings 19:32

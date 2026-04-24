@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # June 13 - Divine Cultivation
 
 *"I the Lord do keep it; I will water it every moment: lest any hurt it, I will keep it night and day"* &mdash; Isa. 27:3

@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # June 26 - It Will Not Be Long
 
 *"Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh"* &mdash; James 5:8

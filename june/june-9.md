@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # June 9 - A Trustworthy Name
 
 *"I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the Lord"* &mdash; Zeph. 3:12

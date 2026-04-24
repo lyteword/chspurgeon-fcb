@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # June 11 - No Cause To Blush
 
 *"Fear not; for thou shalt not be ashamed"* &mdash; Isa. 54:4

@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # June 30 - Back Then Forward
 
 *"Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant"* &mdash; Ezek. 16:60

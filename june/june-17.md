@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # June 17 - Our Field Of Battle
 
 *"For the Lord your God is he that goeth with you, to fight for you against your enemies, to save you"* &mdash; Deut. 20:4

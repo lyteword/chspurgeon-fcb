@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # June 21 - A Woman's War
 
 *"The Lord shall sell Sisera into the hand of a woman"* &mdash; Judges 4:9

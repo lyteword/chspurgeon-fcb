@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # June 3 - Sure-footedness
 
 *"The Lord God is my strength, and he will make my feet like hind's feet, and he will make me to walk upon mine high places."* &mdash; Hab. 3:19

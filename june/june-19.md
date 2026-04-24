@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # June 19 - A Sound Heart
 
 *"Let my heart be sound in thy statutes: that I be not ashamed"* &mdash; Ps. 119:80
