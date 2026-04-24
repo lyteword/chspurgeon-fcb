@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # February 4 - He Will Return
 
 *"I will not leave you comfortless: I will come to you"* &mdash; John 14:18

@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # February 7 - Return From Backsliding
 
 *"If thou return to the Almighty, thou shalt be built up"* &mdash; Job 22:23

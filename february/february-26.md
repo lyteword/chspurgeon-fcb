@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # February 26 - Truth Established
 
 *"The lip of truth shall be established for ever; but a lying tongue is but for a moment"* &mdash; Prov. 12:19

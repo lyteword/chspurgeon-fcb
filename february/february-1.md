@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # February 1 - Never Despair
 
 *"But unto you that fear my name shall the Sun of righteousness arise with healing in his wings"* &mdash; Mal. 4:2

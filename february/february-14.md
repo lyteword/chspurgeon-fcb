@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # February 14 - Mercy To The Undeserving
 
 *"He that trusteth in the Lord, mercy shall compass him about"* &mdash; Ps. 32:10

@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # February 3 - He Freely Gives
 
 *"He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?"* &mdash; Rom. 8:32

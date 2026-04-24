@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # February 24 - Hear So As To Be Heard
 
 *"If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you"* &mdash; John 15:7

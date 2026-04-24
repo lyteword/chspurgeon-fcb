@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # February 8 - Joyful Security
 
 *"I will uphold thee with the right hand of my righteousness"* &mdash; Isa. 41:10

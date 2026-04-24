@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # February 2 - Grow Up
 
 *"And ye shall go forth, and grow up as calves of the stall"* &mdash; Mal. 4:2

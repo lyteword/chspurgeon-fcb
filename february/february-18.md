@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # February 18 - God Will Answer
 
 *"He will fulfill the desire of them that fear him: he also will hear their cry, and will save them"* &mdash; Ps. 145:19

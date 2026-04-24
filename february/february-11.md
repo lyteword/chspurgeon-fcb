@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # February 11 - Are The Children In?
 
 *"I will pour my spirit upon thy seed, and my blessing upon thine offspring"* &mdash; Isa. 44:3

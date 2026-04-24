@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # February 15 - Ever Mindful
 
 *"The Lord hath been mindful of us: he will bless us"* &mdash; Ps. 115:12

@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # February 17 - God Can Make You Strong
 
 *"Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded"* &mdash; II Chron. 15:7

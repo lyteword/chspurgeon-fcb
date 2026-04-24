@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # February 23 - Unbroken Fellowship Essential
 
 *"If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you"* &mdash; John 15:7

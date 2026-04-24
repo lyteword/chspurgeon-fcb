@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # February 10 - A Constant Witness
 
 *"For thou shalt be his witness unto all men of what thou hast seen and heard"* &mdash; Acts 22:15

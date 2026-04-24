@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # February 16 - You Deal With God
 
 *"I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man"* &mdash; Hos. 11:9

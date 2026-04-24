@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # February 28 - Real Estate In Heaven
 
 *"Knowing in yourselves that ye have in heaven a better and an enduring substance"* &mdash; Heb. 10:34

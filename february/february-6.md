@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # February 6 - Blessing In The City
 
 *"If thou shalt hearken unto the voice of the Lord thy God, blessed shalt thou be in the city"* &mdash; Deut. 28:2

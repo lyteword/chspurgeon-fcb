@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # February 19 - Better Farther On
 
 *"Though I have afflicted thee, I will afflict thee no more"* &mdash; Nah. 1:12

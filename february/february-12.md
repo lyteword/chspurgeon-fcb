@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # February 12 - God Delights To Give
 
 *"And the Lord said unto Abraham, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward: for all the land which thou seest, to thee will I give it, and to thy seed for ever"* &mdash; Gen. 13:14

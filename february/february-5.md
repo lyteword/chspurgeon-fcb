@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # February 5 - Justice Satisfied
 
 *"When I see the blood, I will pass over you"* &mdash; Exod. 12:13

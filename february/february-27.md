@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # February 27 - Unstaggering Trustfulness
 
 *"He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord"* &mdash; Ps. 112:7

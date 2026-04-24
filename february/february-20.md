@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # February 20 - Continual Guidance
 
 *"The Lord shall guide thee continually"* &mdash; Isa. 58:11

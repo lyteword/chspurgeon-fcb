@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # February 21 - Blessing On Littleness
 
 *"He will bless them that fear the Lord, both small and great"* &mdash; Ps. 115:13

@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # February 22 - Past Deliverance Begets Faith
 
 *"David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine"* &mdash; I Sam. 17:37

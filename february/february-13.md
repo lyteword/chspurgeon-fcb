@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # February 13 - Blessed In The Field
 
 *"Blessed shalt thou be in the field"* &mdash; Deut. 28:3

@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # February 25 - Set Apart
 
 *"Ye shall be named the priests of the Lord"* &mdash; Isa. 61:6
