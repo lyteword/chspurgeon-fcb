@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # January 10 - Divine Recompense
 
 *"He that watereth shall be watered also himself."* &mdash; Prov. 11:25

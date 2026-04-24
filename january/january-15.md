@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # January 15 - Made Rich By Faith
 
 *"For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever."* &mdash; Ps. 9:18

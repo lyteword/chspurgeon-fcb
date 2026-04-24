@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # January 22 - Christian Liberality
 
 *"Blessed is he that considereth the poor: the Lord will deliver him in time of trouble."* &mdash; Ps. 41:1

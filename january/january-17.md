@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # January 17 - A Man Without Fear
 
 *"And he said, Certainly I will be with thee."* &mdash; Exod. 3:12

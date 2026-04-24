@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # January 18 - Christ And His Children
 
 *"When thou shalt make his soul an offering for sin, he shall see his seed."* &mdash; Isa. 53:10

@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # January 6 - Help From Without
 
 *"Yea, I will help thee."* &mdash; Isa. 41:10

@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # January 21 - God's Enemies Shall Bow
 
 *"The Egyptians shall know that I am the Lord."* &mdash; Exod. 7:5

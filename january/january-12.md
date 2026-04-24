@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # January 12 - "love Unto The End"
 
 *"For the Lord will not cast off for ever."* &mdash; Lam. 3:31

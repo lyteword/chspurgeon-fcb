@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # January 16 - Even The Faintest Call
 
 *"And it shall come to pass, that whosoever shall call on the name of the Lord shall be delivered."* &mdash; Joel 2:32

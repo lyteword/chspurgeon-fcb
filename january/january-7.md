@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # January 7 - Always Growing
 
 *"Thou shalt see greater things than these."* &mdash; John 1:50

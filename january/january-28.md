@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # January 28 - Tears Shall Cease
 
 *"And God shall wipe away all tears from their eyes."* &mdash; Rev. 21:4

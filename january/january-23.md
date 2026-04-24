@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # January 23 - A Completed Sacrifice
 
 *"And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him."* &mdash; Lev. 1:4

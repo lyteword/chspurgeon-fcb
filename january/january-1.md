@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # January 1 - The Bible's First Promise
 
 *"And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel."* &mdash; Gen. 3:15
