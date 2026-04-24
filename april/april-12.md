@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # April 12 - He Remembers No More
 
 *"For I will forgive their iniquity, and I will remember their sin no more"* &mdash; Jer. 31:34

@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # April 15 - Desires Of Rlghteous Granted
 
 *"The desire of the righteous shall be granted"* &mdash; Prov. 10:24

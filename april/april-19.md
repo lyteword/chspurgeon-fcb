@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # April 19 - An Expert Searcher
 
 *"For thus saith the Lord God; Behold, I, even I, will both search my sheep, and seek them out"* &mdash; Exod. 34:11

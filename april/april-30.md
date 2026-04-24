@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # April 30 - The Overcomer's Reward
 
 *"To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it"* &mdash; Rev. 2:17

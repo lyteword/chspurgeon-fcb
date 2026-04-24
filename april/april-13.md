@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # April 13 - This Body Fashioned Anew
 
 *"Who shall change our vile body, that it may be fashioned like unto his glorious body"* &mdash; Phil. 3:21

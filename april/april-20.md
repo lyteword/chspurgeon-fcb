@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # April 20 - By Faith Not Feeling
 
 *"The just shall live by faith"* &mdash; Rom. 1:17

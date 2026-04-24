@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # April 11 - Close Fellowship
 
 *"And they shall teach no more every man his neighbor, and every man his brother, saying, Know the Lord: for they shall all know me, from the least of them unto the greatest of them, saith the Lord"* &mdash; Jer. 31:34

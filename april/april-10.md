@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # April 10 - Look And Live
 
 *"And the Lord said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that everyone that is bitten, when he looketh upon it, shall live"* &mdash; Num. 21:8

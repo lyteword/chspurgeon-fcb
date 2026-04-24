@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # April 22 - Power To Raise
 
 *"The Lord openeth the eyes of the blind: the Lord raiseth them that are bowed down"* &mdash; Ps. 146:8

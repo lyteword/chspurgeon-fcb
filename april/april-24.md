@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # April 24 - Condition Of Blessing
 
 *"Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it,"* &mdash; Mal. 3:10

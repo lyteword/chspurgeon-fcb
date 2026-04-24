@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # April 9 - The Bible's Supreme Place
 
 *"Great peace have they which love thy law: and nothing shall offend them"* &mdash; Ps. 119:165

@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # April 17 - Enemies At Peace
 
 *"When a man's ways please the Lord, he maketh even his enemies to be at peace with him"* &mdash; Prov. 16:7

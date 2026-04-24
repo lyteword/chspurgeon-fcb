@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # April 16 - All Turned To Holiness
 
 *"In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD"* &mdash; Zech. 14:20

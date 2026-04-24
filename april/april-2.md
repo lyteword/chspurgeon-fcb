@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # April 2 - True Heart-energy
 
 *"Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all"* &mdash; I Tim. 4:15

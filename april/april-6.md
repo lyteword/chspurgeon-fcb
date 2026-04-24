@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # April 6 - One King, One Lord
 
 *"And the Lord shall be king over all the earth: in that day shall there be one Lord, and his name one"* &mdash; Zech. 14:9

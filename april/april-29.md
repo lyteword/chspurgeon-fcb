@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # April 29 - Forget And Forgive
 
 *"Say not thou, I will recompense evil; but wait on the Lord, and he shall save thee"* &mdash; Prov. 20:22

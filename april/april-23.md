@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # April 23 - No Fear Of Death
 
 *"He that hath an ear, let him hear what the Spirit saith unto the churches; he that overcometh shall not be hurt of the second death"* &mdash; Rev. 2:11

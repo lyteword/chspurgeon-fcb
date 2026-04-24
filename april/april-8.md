@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # April 8 - Preserved To Works End
 
 *"The Lord stood by him, and said, Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome"* &mdash; Acts 23:11

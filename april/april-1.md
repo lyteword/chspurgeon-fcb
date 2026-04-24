@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # April 1 - The King's Highway
 
 *"The wayfaring men, though fools, shall not err therein"* &mdash; Isa. 35:8

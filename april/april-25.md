@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # April 25 - What To Leave Children
 
 *"The just man walketh in his integrity: his children are blessed after him"* &mdash; Prov. 20:7

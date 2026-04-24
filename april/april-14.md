@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # April 14 - My Choice Is His Choice
 
 *"He shall choose our inheritance for us"* &mdash; Ps. 47:4

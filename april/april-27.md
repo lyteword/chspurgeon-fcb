@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # April 27 - God Finishes His Work
 
 *"The Lord will perfect that which concerneth me"* &mdash; Ps. 138:8

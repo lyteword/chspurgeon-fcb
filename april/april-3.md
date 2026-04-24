@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # April 3 - Sensitive To Warning
 
 *"Because thine heart was tender, and thou hast humbled thyself before the Lord, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard thee, saith the Lord"* &mdash; II Kings 22:19

@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # April 26 - Gracious Dealing
 
 *"And the Lord thy God shall bless thee in all that thou doest"* &mdash; Deut. 15:18

@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # April 28 - It Becomes Mutual
 
 *"I will dwell in them, and walk in them; and I will be their God, and they shall be my people"* &mdash; II Cor. 6:16

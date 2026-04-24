@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # April 18 - He Never Fails
 
 *"I will be with thee: I will not fail thee, nor forsake thee"* &mdash; Josh. 1:5
