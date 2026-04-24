@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # May 4 - Victory In Reverses
 
 *"Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the Lord shall be a light unto me"* &mdash; Micah 7:8

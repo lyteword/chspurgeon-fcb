@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # May 17 - No Need To Stint
 
 *"The upright shall have good things in possession"* &mdash; Prov. 28:10

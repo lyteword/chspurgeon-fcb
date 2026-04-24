@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # May 5 - Why Remain Captive?
 
 *"The Lord thy God will turn thy captivity"* &mdash; Deut. 30:3

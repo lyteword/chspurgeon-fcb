@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # May 29 - Fishers Follow Him
 
 *"And Jesus said unto them, Come ye after me, and I will make you to become fishers of men"* &mdash; Mark 1:17

@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # May 16 - We Receive As We Give
 
 *"Blessed are the merciful: for they shall obtain mercy"* &mdash; Matt. 5:7

@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # May 28 - Remind God Of His Promise
 
 *"And thou saidst, I will surely do thee good"* &mdash; Gen. 32:12

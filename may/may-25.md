@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # May 25 - God's Treasury
 
 *"The Lord shall open unto thee his good treasure"* &mdash; Deut. 28:12

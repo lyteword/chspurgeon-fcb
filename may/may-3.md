@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # May 3 - Listen For The Signal
 
 *"And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the Lord go out before thee, to smite the host of the Philistines"* &mdash; II Sam. 5:24

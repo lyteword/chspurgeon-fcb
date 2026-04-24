@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # May 20 - We Dare Not Doubt
 
 *"I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron"* &mdash; Isa. 45:2

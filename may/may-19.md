@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # May 19 - We May Speak For God
 
 *"Therefore thus saith the Lord, If thou return, then will I bring thee again, and thou shalt stand before me: and if thou take forth the precious from the vile, thou shalt be as my mouth"* &mdash; Jer. 15:19

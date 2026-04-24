@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # May 13 - Day Is At Hand
 
 *"And I will give him the morning star"* &mdash; Rev. 2:28

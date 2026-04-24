@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # May 18 - Losses Overcome
 
 *"And I will restore to you the years that the locust hath eaten"* &mdash; Joel 2:25

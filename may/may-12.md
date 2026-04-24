@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # May 12 - Servants Honored
 
 *"Whoso keepeth the fig tree shall eat the fruit thereof; so he that waiteth on his master shall be honored"* &mdash; Prov. 27:18

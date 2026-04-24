@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # May 22 - Song Of Confidence
 
 *"Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me"* &mdash; Ps. 138:7

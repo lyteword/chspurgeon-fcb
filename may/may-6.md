@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # May 6 - Cure For Envy
 
 *"Let not thine heart envy sinners: but be thou in the fear of the Lord all the day long. For surely there is an end; and thine expectation shall not be cut off"* &mdash; Prov. 23:17

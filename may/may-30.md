@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # May 30 - Holy Foresight
 
 *"Nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of Heaven"* &mdash; Matt. 26:64

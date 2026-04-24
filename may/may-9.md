@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # May 9 - Trust Means Joy
 
 *"For our heart shall rejoice in him, because we have trusted in his holy name"* &mdash; Ps. 33:21

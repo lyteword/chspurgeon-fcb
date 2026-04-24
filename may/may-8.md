@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # May 8 - Help Wanted
 
 *"Go ye also into the vineyard; and whatsoever is right, that shall ye receive"* &mdash; Matt. 20:7

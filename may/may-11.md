@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # May 11 - Wait For The Finals
 
 *"Gad, a troop shall overcome him: but he shall overcome at the last."* &mdash; Gen. 49:19

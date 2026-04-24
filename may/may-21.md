@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # May 21 - Rain Without Clouds? Never!
 
 *"If the clouds be full of rain, they empty themselves upon the earth"* &mdash; Eccl. 11:3

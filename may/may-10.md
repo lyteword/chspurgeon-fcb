@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # May 10 - Fear Only God
 
 *"So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me"* &mdash; Heb. 13:6

@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # May 27 - As The Life -- So The Fruit
 
 *"For if these things be in you, and abound, they make you that ye shall neither be barren nor fruitful in the knowledge of our Lord Jesus Christ"* &mdash; II Peter 1:8

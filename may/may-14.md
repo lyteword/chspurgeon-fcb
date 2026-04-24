@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # May 14 - Surgery For Healing
 
 *"Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up* &mdash; Hosea 6:1

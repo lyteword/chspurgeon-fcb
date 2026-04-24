@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # May 7 - Let No Evil Remain
 
 *"And there shall cleave nought of the cursed thing to thine hand: that the Lord may turn from the fierceness of his anger, and show thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers"* &mdash; Deut. 13:17

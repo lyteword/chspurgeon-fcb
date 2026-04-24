@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # May 15 - God's High Places
 
 *"I will set him on high because he hath known my name* &mdash; Ps. 91:14

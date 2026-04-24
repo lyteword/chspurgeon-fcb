@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # May 2 - Spiritual Sowing
 
 *"He that soweth to the Spirit shall of the Spirit reap life everlasting"* &mdash; Gal. 6:8

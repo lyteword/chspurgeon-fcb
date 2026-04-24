@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # May 23 - Full Reliance On God
 
 *"For he shall deliver the needy when he crieth; the poor also, and him that hath no helper"* &mdash; Ps. 72:12

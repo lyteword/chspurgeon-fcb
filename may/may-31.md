@@ -1,3 +1,7 @@
+---
+weight: 31
+---
+
 # May 31 - "be Of Good Cheer"
 
 *"In the world ye shall have tribulation: but be of good cheer; I have overcome the world"* &mdash; John 16:33

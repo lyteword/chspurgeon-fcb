@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # May 26 - Commonest Things Blessed
 
 *"Ye shall serve the Lord your God, and he shall bless thy bread, and thy water"* &mdash; Exod. 23:25

@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # May 1 - Full Of Song
 
 *"The mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands"* &mdash; Isa. 55:12
