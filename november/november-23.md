@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # November 23 - Acquiring Perseverance
 
 *"The Lord thy God will put out those nations before thee by little and little"* &mdash; Deut. 7:22

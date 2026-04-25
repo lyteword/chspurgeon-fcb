@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # November 17 - God Never Forsakes
 
 *"For the Lord will not cast off his people, neither will he forsake his inheritance"* &mdash; Ps. 94:14

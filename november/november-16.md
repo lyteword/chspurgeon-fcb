@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # November 16 - Weapons Doomed To Fail
 
 *"No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn"* &mdash; Isa. 54:17

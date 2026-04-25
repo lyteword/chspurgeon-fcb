@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # November 8 - The Magnitude Of Grace
 
 *"My grace is sufficient for thee; for my strength is made perfect in weakness"* &mdash; II Cor. 12:9

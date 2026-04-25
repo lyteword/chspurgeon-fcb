@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # November 10 - Walk Without Stumbling
 
 *"He will not suffer thy foot to be moved"* &mdash; Ps. 121:3

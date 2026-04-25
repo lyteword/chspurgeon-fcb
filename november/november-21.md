@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # November 21 - The Outward, Upward Look
 
 *"Look unto me, and be ye saved, all the ends of the earth; for I am God, and there is none else"* &mdash; Isa. 45:22

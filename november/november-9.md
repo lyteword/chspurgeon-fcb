@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # November 9 - Necessary Knowledge
 
 *"Thus shall they know that I the Lord their God am with them, and that they, even the house of Israel, are my people, saith the Lord God"* &mdash; Ezek. 34:30

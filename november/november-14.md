@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # November 14 - The Name To Use
 
 *"If ye shall ask anything in my name, I will do it"* &mdash; John 14:14

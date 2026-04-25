@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # November 24 - Pardon And Forgiveness
 
 *"He will not always chide: neither will he keep his anger for ever"* &mdash; Ps. 103:9

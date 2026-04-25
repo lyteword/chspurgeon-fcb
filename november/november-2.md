@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # November 2 - Heavenly Wealth
 
 *"No good thing will he withhold from them that walk uprightly"* &mdash; Ps. 84:11

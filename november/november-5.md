@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # November 5 - What Is Painful Will End
 
 *"I will not contend for ever, neither will I be always wrath: for the spirit should fail before me, and the souls which I have made"* &mdash; Isa. 57:16

@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # November 15 - Limitless Riches
 
 *"My God shall supply all your need according to his riches in glory by Christ Jesus"* &mdash; Phil. 4:19

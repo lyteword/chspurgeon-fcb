@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # November 29 - Know How To Wait
 
 *"He that believeth shall not make haste"* &mdash; Isa. 28:16

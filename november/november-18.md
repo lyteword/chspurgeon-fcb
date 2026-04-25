@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # November 18 - Clearly Supernatural
 
 *"In that day shall the Lord defend the inhabitants of Jerusalem: and he that is feeble among them at that day shall be as David; and the house of David shall be as God, as the angel of the Lord before them"* &mdash; Zech. 12:8

@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # November 28 - Doing What God Can Bless
 
 *"The Lord shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto"* &mdash; Deut. 28:8

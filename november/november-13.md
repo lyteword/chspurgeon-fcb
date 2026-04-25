@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # November 13 - The Unfailing Watch
 
 *"Behold, he that keepeth Israel shall neither slumber nor sleep"* &mdash; Ps. 121:4

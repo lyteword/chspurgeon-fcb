@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # November 27 - Rest In All Thy Goings
 
 *"And he said, My presence shall go with thee, and I will give thee rest"* &mdash; Ex. 33:14

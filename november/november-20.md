@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # November 20 - Hunger Satisfied
 
 *"For he satisfieth the longing soul, and filleth the hungry soul with goodness"* &mdash; Ps. 107:9

@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # November 30 - God Is In The Front Line
 
 *"The Lord, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed"* &mdash; Deut. 31:8

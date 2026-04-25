@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # November 6 - Delight And Desires
 
 *"Delight thyself also in the Lord; and he shall give thee the desires of thine heart"* &mdash; Ps. 37:4

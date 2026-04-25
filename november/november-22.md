@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # November 22 - No Condemnation
 
 *"In those days, and in that time, saith the Lord, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve"* &mdash; Jer. 50:20

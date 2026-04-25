@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # November 7 - True Humility Rewarded
 
 *"He that humbleth himself shall be exalted"* &mdash; Luke 18:14

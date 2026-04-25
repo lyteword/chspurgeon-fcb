@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # November 4 - You Mark The Trenches
 
 *"And he said, Thus saith the Lord, Make this valley full of ditches. For thus saith the Lord, Ye shall not see wind, neither shall ye see rain; yet that valley shall be filled with water, that ye may drink, both ye, and your cattle, and your beasts"* &mdash; II Kings 3:16

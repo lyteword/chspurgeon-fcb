@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # November 1 - Perfection And Preservation
 
 *"Faithful is he that calleth you, who also will do it"* &mdash; I Thess. 5:24

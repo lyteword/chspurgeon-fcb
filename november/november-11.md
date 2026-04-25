@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # November 11 - The Lord's Free Men
 
 *"For sin shall not have dominion over you: for ye are not under the law, but under grace"* &mdash; Rom. 6:14

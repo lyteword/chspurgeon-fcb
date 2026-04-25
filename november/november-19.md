@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # November 19 - From Obedience To Blessing
 
 *"From this day will I bless you"* &mdash; Haggai 2:19

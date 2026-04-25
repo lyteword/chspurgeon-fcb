@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # November 26 - Heavenly Alchemy
 
 *"Your sorrow shall be turned into joy"* &mdash; John 16:20
