@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # October 17 - Holy Fear
 
 *"He that feareth the commandment shall be rewarded"* &mdash; Prov. 13:13

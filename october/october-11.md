@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # October 11 - Free To Travel
 
 *"And I will strengthen them in the Lord: and they shall walk up and down in his name, saith the Lord"* &mdash; Zech. 10:12

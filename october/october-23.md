@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # October 23 - Harvest Of Light, Gladness
 
 *"Light is sown for the righteous, and gladness for the upright in heart"* &mdash; Ps. 97:11

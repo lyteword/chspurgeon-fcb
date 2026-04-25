@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # October 25 - God First, Then Extras
 
 *"But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you"* &mdash; Matt. 6:33

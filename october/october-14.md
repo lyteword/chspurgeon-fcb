@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # October 14 - Never Ashamed
 
 *"Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven"* &mdash; Matt. 10:32

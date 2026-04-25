@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # October 19 - Regulated Chastisement
 
 *"I will correct thee in measure"* &mdash; Jer. 30:11

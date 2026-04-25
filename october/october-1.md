@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # October 1 - A Covenant He Remembers
 
 *"He hath given meat unto them that fear him: he will ever be mindful of his covenant"* &mdash; Ps. 111:5

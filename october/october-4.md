@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # October 4 - The Mighty Magnet
 
 *"And I, if I be lifted up from the earth, will draw all men unto me"* &mdash; John 12:32

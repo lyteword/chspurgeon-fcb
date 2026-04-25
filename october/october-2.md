@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # October 2 - Comfort En Route Home
 
 *"And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob"* &mdash; Gen. 50:24

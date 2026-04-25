@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # October 5 - At God's Bidding
 
 *"And the remnant of Jacob shall be in the midst of many people as a dew from the Lord, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men."* &mdash; Micah 5:7

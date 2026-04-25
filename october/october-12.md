@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # October 12 - Mark Of Covenant Grace
 
 *"And the Lord thy God will circumcise thine heart, and the heart of thy seed, to love the Lord thy God with all thine heart, and with all thy soul, that thou mayest live"* &mdash; Deut. 30:6

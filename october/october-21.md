@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # October 21 - God's Multiplication Table
 
 *"A little one shall become a thousand, and a small one a strong nation: I the Lord will hasten it in his time"* &mdash; Isa. 60:22

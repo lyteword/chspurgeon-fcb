@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # October 30 - Thorough Cleansing
 
 *"Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you"* &mdash; Ezek. 36:25

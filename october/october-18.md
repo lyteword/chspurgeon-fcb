@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # October 18 - Tears, Then Joyful Harvest
 
 *"They that sow in tears shall reap in joy"* &mdash; Ps. 126:5

@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # October 28 - Sins Of Ignorance
 
 *"And it shall be forgiven them; for it is ignorance"* &mdash; Num. 15:25

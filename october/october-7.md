@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # October 7 - Always First In Fellowship
 
 *"He goeth before you into Galilee; there shall ye see him, as he said unto you."* &mdash; Mark 16:7

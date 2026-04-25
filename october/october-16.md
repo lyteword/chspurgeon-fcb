@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # October 16 - One With Christ Jesus
 
 *"Because I live, ye shall live also"* &mdash; John 14:19

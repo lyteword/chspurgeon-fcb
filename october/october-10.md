@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # October 10 - Open Door Of Communion
 
 *"I have set before thee an open door, and no man can shut it"* &mdash; Rev. 3:8

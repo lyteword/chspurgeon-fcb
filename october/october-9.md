@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # October 9 - What Sanctifies Our Offerings?
 
 *"And the priest shall put some of the blood upon the horns of the altar of sweet incense before the Lord"* &mdash; Lev. 4:7

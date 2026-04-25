@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # October 22 - Plead His Own Promise
 
 *"Thou, O Lord God, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever"* &mdash; II Sam. 7:29

@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # October 20 - From Every Sin
 
 *"He shall save his people from their sins"* &mdash; Matt. 1:21

@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # October 13 - If, And A Triple Promise
 
 *"If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land"* &mdash; II Chron. 7:14

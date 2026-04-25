@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # October 29 - Maintain The Difference
 
 *"And I will put a division between my people and thy people: tomorrow shall this sign be"* &mdash; Exod. 8:23

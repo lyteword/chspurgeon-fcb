@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # October 26 - Because Of Us
 
 *"For the elect's sake those days be shortened"* &mdash; Matt. 24:22

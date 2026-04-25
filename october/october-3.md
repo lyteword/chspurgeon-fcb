@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # October 3 - Reflectors Of The Lord's Beauty
 
 *"As for me, I will behold thy face in righteousness; I shall be satisfied, when I awake, with thy likeness"* &mdash; Ps. 17:15

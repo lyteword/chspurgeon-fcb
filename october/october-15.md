@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # October 15 - Sustained By Feeding
 
 *"As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me"* &mdash; John 6:57

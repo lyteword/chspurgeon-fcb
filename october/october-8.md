@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # October 8 - Never Alone
 
 *"Thou shalt no more be termed Forsaken"* &mdash; Isa. 62:4

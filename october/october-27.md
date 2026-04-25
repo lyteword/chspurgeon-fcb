@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # October 27 - His Service, Face, Name
 
 *"His servants shall serve him: and they shall see his face; and his name shall be in their foreheads"* &mdash; Rev. 22:3

@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # October 6 - The Leadership Of Our Guide
 
 *"Howbeit when he, the Spirit of truth, is come, he will guide you into all truth"* &mdash; John 16:13
