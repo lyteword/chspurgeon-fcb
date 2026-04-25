@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # August 9 - Pruning For Fruit-bearing
 
 *"Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit"* &mdash; John 15:2

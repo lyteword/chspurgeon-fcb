@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # August 2 - Speak What He Teaches
 
 *"Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say"* &mdash; Exod. 4:12

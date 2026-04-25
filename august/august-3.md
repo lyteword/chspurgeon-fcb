@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # August 3 - The Right To Holy Things
 
 *"But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat"* &mdash; Lev. 22:11

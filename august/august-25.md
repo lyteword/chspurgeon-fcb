@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # August 25 - Food And Rest
 
 *"I will feed my flock, and I will cause them to lie down, saith the Lord God"* &mdash; Ezek. 34:15

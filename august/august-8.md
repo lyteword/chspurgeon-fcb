@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # August 8 - Confidence Not Misplaced
 
 *"The Lord God will help me"* &mdash; Isa. 50:7

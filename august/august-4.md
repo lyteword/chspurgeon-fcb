@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # August 4 - He Blesses And Keeps
 
 *"The Lord bless thee, and keep thee"* &mdash; Num. 6:24

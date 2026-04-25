@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # August 29 - Plentiful Refreshment
 
 *"Their soul shall be as a watered garden"* &mdash; Jer. 31:12

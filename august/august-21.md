@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # August 21 - Night Of Weeping; Joyous Day
 
 *"For his anger endureth but a moment; in his favor is life: weeping may endure for a night, but joy cometh in the morning"* &mdash; Ps. 30:5

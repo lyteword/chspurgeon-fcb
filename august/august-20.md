@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # August 20 - Deliverance Not Limited
 
 *"He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee"* &mdash; Job 5:19

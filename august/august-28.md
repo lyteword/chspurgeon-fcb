@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # August 28 - Out Of Any Circumstance
 
 *"As for me, I will call upon God; and the Lord shall save me"* &mdash; Ps. 55:16

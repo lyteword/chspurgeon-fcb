@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # August 23 - Love And Seek True Wisdom
 
 *"I love them that love me; and those that seek me early shalt find me"* &mdash; Prov. 8:17

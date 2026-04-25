@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # August 13 - Before And During The Call
 
 *"It shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear"* &mdash; Isa. 65:24

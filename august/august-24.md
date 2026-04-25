@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # August 24 - God Above Human Philosophy
 
 *"For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent"* &mdash; I Cor. 1:19

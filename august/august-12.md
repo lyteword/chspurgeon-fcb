@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # August 12 - Light In Darkness
 
 *"For thou art my lamp, O Lord: and the Lord will lighten my darkness"* &mdash; II Sam. 22:29

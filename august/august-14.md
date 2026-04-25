@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # August 14 - Child Chastisement Not Forever
 
 *"And I will for this afflict the seed of David, but not for ever"* &mdash; I Kings 11:39

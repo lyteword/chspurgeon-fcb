@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # August 30 - Solace, Security, Satisfaction
 
 *"Although my house be not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although he make it not to grow"* &mdash; II Sam. 23:5

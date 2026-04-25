@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # August 16 - Uncover And Confess Sin
 
 *"He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy"* &mdash; Prov. 28:13

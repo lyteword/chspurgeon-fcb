@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # August 7 - Rules For Prosperity
 
 *"Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest"* &mdash; Josh. 1:7

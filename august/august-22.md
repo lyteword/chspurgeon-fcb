@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # August 22 - Wrath To God's Glory
 
 *"Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain"* &mdash; Ps. 76:10

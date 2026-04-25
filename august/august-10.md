@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # August 10 - He Lowers To Raise
 
 *"The Lord maketh poor, and maketh rich: he bringeth low, and lifteth up"* &mdash; I Sam 2:7

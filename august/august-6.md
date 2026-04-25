@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # August 6 - Go; Take Your Property
 
 *"Behold, the Lord thy God hath set the land before thee: go up and possess it, as the Lord God of thy fathers hath said unto thee; fear not, neither be discouraged"* &mdash; Deut. 1:21

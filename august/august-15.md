@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # August 15 - A Name Guarantee
 
 *"And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son"* &mdash; John 14:13

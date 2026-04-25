@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # August 27 - Choice Men
 
 *"I have chosen thee in the furnace of affliction"* &mdash; Isa. 48:10

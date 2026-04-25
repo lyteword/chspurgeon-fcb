@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # August 11 - Waiting, Not Running
 
 *"Truly my soul waiteth upon God: from him cometh my salvation"* &mdash; Ps. 62:1

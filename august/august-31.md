@@ -1,3 +1,7 @@
+---
+weight: 31
+---
+
 # August 31 - Divine, Ever-living, Unchanging
 
 *"But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you"* &mdash; I Peter 1:25

@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # August 17 - Who Has The Majority?
 
 *"And he answered, Fear not: for they that be with us are more than they that be with them"* &mdash; II Kings 6:16

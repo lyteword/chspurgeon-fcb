@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # August 26 - He Of Tender Conscience
 
 *"I will judge between cattle and cattle"* &mdash; Ezek. 34:22

@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # August 18 - Seekers, Finders
 
 *"If thou seek him, he will be found of thee"* &mdash; I Chron. 28:9

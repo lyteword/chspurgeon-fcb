@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # August 5 - Law In The Heart
 
 *"The law of his God is in his heart; none of his steps shall slide"* &mdash; Ps. 37:31

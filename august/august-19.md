@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # August 19 - Reward For The Righteous
 
 *"So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth"* &mdash; Ps 58:11
