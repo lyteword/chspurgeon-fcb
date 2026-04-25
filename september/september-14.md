@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # Sept. 14 - Mark Of Divine Approval
 
 *"Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him"* &mdash; James 1:12

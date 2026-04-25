@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # Sept. 6 - A Strong Heart
 
 *"Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord"* &mdash; Ps. 27:14

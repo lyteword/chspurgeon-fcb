@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # Sept. 12 - What Of My House?
 
 *"Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house"* &mdash; Acts 16:31

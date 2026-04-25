@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # Sept. 22 - Broad Rivers Without Galleys
 
 *"But there the glorious Lord will be unto us a place of broad rivers and streams; wherein shall go no galley with oars, neither shall gallant ship pass thereby"* &mdash; Isa. 33:21

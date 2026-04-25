@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # Sept. 23 - Deliverance From Dust And Chaff
 
 *"For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth!"* &mdash; Amos 9:9

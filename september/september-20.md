@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # Sept. 20 - Perfect Willingness
 
 *"Thy people shall be willing in the day of thy power"* &mdash; Ps. 110:3

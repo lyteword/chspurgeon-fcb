@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # Sept. 3 - Out Of Spiritual Death
 
 *"And ye shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves"* &mdash; Ezek. 37:13

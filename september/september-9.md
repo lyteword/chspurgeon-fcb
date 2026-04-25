@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # Sept. 9 - Fear Has Its Place
 
 *"Happy is the man that feareth alway"* &mdash; Prov. 28:14

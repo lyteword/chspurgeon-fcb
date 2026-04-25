@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # Sept. 17 - Like Palm And Cedar
 
 *"The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon"* &mdash; Ps. 92:12

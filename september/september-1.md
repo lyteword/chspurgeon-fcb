@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Sept. 1 - Abiding In Obedience, In Love
 
 *"If ye keep my commandments, ye shall abide in my love"* &mdash; John 15:10

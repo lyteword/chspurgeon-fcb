@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # Sept. 4 - Victory Without Battle
 
 *"But I will have mercy upon the house of Judah, and will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen"* &mdash; Hosea 1:7

@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # Sept. 10 - Coming In; Going Out
 
 *"Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out"* &mdash; Deut. 28:6

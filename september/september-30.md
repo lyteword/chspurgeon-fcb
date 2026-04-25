@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # Sept. 30 - Needs To Open Our Mouths
 
 *"Open thy mouth wide, and I will fill it"* &mdash; Ps. 81:10

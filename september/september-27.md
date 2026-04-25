@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # Sept. 27 - The Divine Light In Darkness
 
 *"For thou wilt light my candle"* &mdash; Ps. 18:28

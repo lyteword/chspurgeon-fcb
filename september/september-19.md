@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # Sept. 19 - The Reason For Singing
 
 *"The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing"* &mdash; Zeph. 3:17

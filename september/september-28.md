@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # Sept. 28 - Work Is Done; Rest In Him
 
 *"There remaineth therefore a rest to the people of God"* &mdash; Heb. 4:9

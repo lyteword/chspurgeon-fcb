@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # Sept. 2 - Follow To Know
 
 *"Then shall we know, if we follow on to know the Lord"* &mdash; Hosea 6:3

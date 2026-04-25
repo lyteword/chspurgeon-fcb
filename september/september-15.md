@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # Sept. 15 - The Safest Shelter
 
 *"And a man shall be as an hiding-place from the wind and a covert from the tempest."* &mdash; Isa. 32:2

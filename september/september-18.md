@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # Sept. 18 - Complete Safety
 
 *"And of Benjamin he said, The beloved of the Lord shall dwell in safety by him; and the Lord shall cover him all the day long, and he shall dwell between his shoulders"* &mdash; Deut. 33:12

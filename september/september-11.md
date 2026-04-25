@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # Sept. 11 - Sufferers Make Strong Believers
 
 *"It is good for a man that he bear the yoke in his youth"* &mdash; Lam. 3:27

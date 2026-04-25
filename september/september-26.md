@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # Sept. 26 - Among The Redeemed
 
 *"Lo, the people shall dwell alone, and shall not be reckoned among the nations"* &mdash; Num. 23:9

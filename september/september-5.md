@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # Sept. 5 - With Me Wherever I Am
 
 *"The Lord will be with you"* &mdash; II Chron. 20:17

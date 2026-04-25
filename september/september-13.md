@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # Sept. 13 - The Dew Of Heaven
 
 *"His heavens shall drop down dew"* &mdash; Deut. 33:28

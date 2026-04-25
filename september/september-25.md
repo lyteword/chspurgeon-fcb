@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # Sept. 25 - The Sacrifice Has Been Accepted
 
 *"If the Lord were pleased to kill us, he would not have received a burnt offering and a meat offering at our hands, neither would he have showed us all these things"* &mdash; Judges 13:23

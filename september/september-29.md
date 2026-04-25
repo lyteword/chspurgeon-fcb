@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # Sept. 29 - To Glorify Christ Jesus
 
 *"He shall glorify me: for he shall receive of mine, and shall shew it unto you."* &mdash; John 16:14

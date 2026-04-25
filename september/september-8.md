@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # Sept. 8 - Broken And Smoking
 
 *"A bruised reed shall he not break, and the smoking flax shall he not quench"* &mdash; Isa. 42:3

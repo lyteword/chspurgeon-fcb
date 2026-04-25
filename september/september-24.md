@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # Sept. 24 - The Life-giving Stream
 
 *"And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live"* &mdash; Ezek. 47:9

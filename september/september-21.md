@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # Sept. 21 - Let Trials Bless
 
 *"Knowing that tribulation worketh patience"* &mdash; Rom. 5:3
