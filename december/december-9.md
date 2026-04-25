@@ -1,3 +1,7 @@
+---
+weight: 9
+---
+
 # December 9 - The "all" Of Belief
 
 *"Jesus said unto him, If thou canst believe, all things are possible to him that believeth"* &mdash; Mark 9:23

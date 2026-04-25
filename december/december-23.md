@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # December 23 - Precious Things
 
 *"And of Joseph he said, Blessed of the Lord be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath"* &mdash; Deut. 33:13

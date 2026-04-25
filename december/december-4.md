@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # December 4 - Covered And Protected
 
 *"He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler"* &mdash; Ps. 91:4

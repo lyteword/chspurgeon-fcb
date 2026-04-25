@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # December 18 - Defended And Covered
 
 *"As birds flying, so will the Lord of hosts defend Jerusalem"* &mdash; Isa. 31:5

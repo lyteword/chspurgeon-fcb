@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # December 7 - Gift Of Strength; Peace To Bless
 
 *"The Lord will give strength unto his people; the Lord will bless his people with peace"* &mdash; Ps. 29:11

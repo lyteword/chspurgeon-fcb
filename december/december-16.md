@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # December 16 - Divine Expulsion
 
 *"Thou shalt drive out the Canaanites, though they have iron chariots, and though they be strong"* &mdash; Joshua 17:18

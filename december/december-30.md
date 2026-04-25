@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # December 30 - Loved To Perfection
 
 *"Having loved his own which were in the world, he loved them unto the end"* &mdash; John 13:1

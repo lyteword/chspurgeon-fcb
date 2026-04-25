@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # December 10 - God Is Our Ally
 
 *"But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries"* &mdash; Exod. 23:22

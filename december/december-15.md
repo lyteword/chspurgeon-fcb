@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # December 15 - World Concord
 
 *"And they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more* &mdash; Isa. 2:4

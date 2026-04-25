@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # December 25 - He Came; He Is Coming
 
 *"This same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven"* &mdash; Acts 1:11

@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # December 11 - Trust And Do; Do And Trust
 
 *"Trust in the Lord, and do good; so shalt thou dwell in the land, and verily thou shalt be fed"* &mdash; Ps. 37:3

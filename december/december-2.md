@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # December 2 - Our Holiest Example
 
 *"I have set the Lord always before me: because he is at my right hand, I shall not be moved"* &mdash; Ps. 16:8

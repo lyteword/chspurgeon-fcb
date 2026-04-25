@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # December 1 - True Walking Posture
 
 *"He that walketh uprightly walketh surely"* &mdash; Prov. 10:9

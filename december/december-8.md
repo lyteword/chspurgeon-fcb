@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # December 8 - Following Leads To Honor
 
 *"If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honor"* &mdash; John 12:26

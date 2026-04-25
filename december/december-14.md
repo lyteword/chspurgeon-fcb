@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # December 14 - Nothing Old
 
 *"And he that sat upon the throne said, Behold, I make all things new"* &mdash; Rev. 21:5

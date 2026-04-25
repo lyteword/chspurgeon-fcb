@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # December 20 - Men As Men; God As God
 
 *"I, even I, am he that comforteth you: who art thou, that thou shouldest be afraid of a man that shall die, and of the son of man which shall be made as grass; and forgettest the Lord thy maker, that hath stretched forth the heavens, and laid the foundations of the earth; and hast feared continually every day because of the fury of the oppressor, as if he were ready to destroy? and where is the fury of the oppressor?"* &mdash; Isa. 51:12

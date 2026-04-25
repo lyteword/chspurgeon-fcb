@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # December 28 - Absolute Assurance
 
 *"He hath said, I will never leave thee, nor forsake thee"* &mdash; Heb. 13:5

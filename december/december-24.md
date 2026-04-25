@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # December 24 - Over Jordan With Singing
 
 *"Thine enemies shall be found liars unto thee"* &mdash; Deut. 33:29

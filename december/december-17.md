@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # December 17 - Nearest And Dearest Fellowship
 
 *"So shall we ever be with the Lord"* &mdash; I Thess. 4:17

@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # December 19 - Afflictions, But No Broken Bones
 
 *"He keepeth all his bones; not one of them is broken"* &mdash; Ps. 34:20

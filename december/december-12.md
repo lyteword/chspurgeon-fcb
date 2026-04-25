@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # December 12 - A Quiet Heart
 
 *"In quietness and in confidence shall be your strength"* &mdash; Isa. 30:15

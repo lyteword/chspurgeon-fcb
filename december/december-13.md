@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # December 13 - Evening Brightens Into Day
 
 *"It shall come to pass, that at evening time it shall be light"* &mdash; Zech. 14:7

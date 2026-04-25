@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # December 21 - From Anger To Love
 
 *"He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea"* &mdash; Micah 7:19

@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # December 27 - His Kindness And Covenant
 
 *"For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the Lord that hath mercy on thee"* &mdash; Isa. 54:10

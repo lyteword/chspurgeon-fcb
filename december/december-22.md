@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # December 22 - Immediately Present
 
 *"God is our refuge and strength, a very present help in trouble"* &mdash; Ps. 46:1

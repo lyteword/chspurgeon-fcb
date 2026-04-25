@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # December 26 - God Only, You Can Trust
 
 *"Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended"* &mdash; Matt. 26:33

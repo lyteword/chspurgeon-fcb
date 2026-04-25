@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # December 3 - Peace Whatever Exposure
 
 *"I will make them a covenant of peace, and will cause the evil beasts to cease out of the land: and they shall dwell safely in the wilderness, and sleep in the woods"* &mdash; Ezek. 34:25
