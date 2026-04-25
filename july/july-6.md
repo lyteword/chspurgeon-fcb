@@ -1,3 +1,7 @@
+---
+weight: 6
+---
+
 # July 6 - His Love; His Gift; His Son
 
 *"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."* &mdash; John 3:16

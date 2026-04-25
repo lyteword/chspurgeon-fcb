@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # July 5 - Complete Deliverance
 
 *"But I will deliver thee in that day, saith the Lord; and thou shalt not be given into the hand of the men of whom thou art afraid."* &mdash; Jer. 39:17

@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # July 25 - Nothing To Alarm Us
 
 *"But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days."* &mdash; Dan. 12:13

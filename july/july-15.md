@@ -1,3 +1,7 @@
+---
+weight: 15
+---
+
 # July 15 - The Mourner Comforted
 
 *"Blessed are they that mourn: for they shall be comforted."* &mdash; Matt. 5:4

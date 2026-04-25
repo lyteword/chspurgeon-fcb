@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # July 23 - Absolutely No Remembrance
 
 *"And their sins and iniquities will I remember no more."* &mdash; Heb. 10:17

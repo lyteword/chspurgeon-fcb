@@ -1,3 +1,7 @@
+---
+weight: 24
+---
+
 # July 24 - Perfect Purity
 
 *"He that overcometh, the same shall be clothed in white raiment."* &mdash; Rev. 3:5

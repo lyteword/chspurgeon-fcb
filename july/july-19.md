@@ -1,3 +1,7 @@
+---
+weight: 19
+---
+
 # July 19 - Heavy Duty Shoes
 
 *"Thy shoes shall be iron and brass; and as thy days, so shall thy strength be."* &mdash; Deut. 33:25

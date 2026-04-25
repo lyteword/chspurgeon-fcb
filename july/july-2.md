@@ -1,3 +1,7 @@
+---
+weight: 2
+---
+
 # July 2 - Refreshing Sleep
 
 *"So he giveth his beloved sleep"* &mdash; Ps. 127:2

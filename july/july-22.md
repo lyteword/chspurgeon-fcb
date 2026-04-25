@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # July 22 - An Eternal Pledge
 
 *"And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in loving kindness, and in mercies. I will even betroth thee unto me in faithfulness; and thou shalt know the Lord."* &mdash; Hosea 2:19

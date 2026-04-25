@@ -1,3 +1,7 @@
+---
+weight: 29
+---
+
 # July 29 - He Routs Our Enemy
 
 *"He hath cast out thine enemy."* &mdash; Zeph. 3:15

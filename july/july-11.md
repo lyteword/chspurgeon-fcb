@@ -1,3 +1,7 @@
+---
+weight: 11
+---
+
 # July 11 - Never Separated From God
 
 *"And whosoever liveth and believeth in me shall never die. Believest thou this?"* &mdash; John 11:26

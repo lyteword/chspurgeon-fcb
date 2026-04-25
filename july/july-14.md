@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # July 14 - Burdens Cast On Him
 
 *"Cast thy burden upon the Lord, and he shall sustain thee; he shall never suffer the righteous to be moved."* &mdash; Ps. 55:22

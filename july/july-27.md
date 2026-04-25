@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # July 27 - More Than Mere Words
 
 *"I will give you the sure mercies of David."* &mdash; Acts 13:34

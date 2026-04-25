@@ -1,3 +1,7 @@
+---
+weight: 7
+---
+
 # July 7 - A Mountain Choir
 
 *"Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the Lord hath comforted his people, and will have mercy upon his afflicted."* &mdash; Isa. 49:13

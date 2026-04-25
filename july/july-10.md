@@ -1,3 +1,7 @@
+---
+weight: 10
+---
+
 # July 10 - Love The Church
 
 *"Thou shalt arise, and have mercy upon Zion: for the time to favor her, yea, the set time, is come. For thy servants take pleasure in her stones, and favor the dust thereof."* &mdash; Ps. 102:13

@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # July 20 - Looking For Him
 
 *"Unto them that look for him shall he appear the second time without sin unto salvation."* &mdash; Heb. 9:28

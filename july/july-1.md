@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # July 1 - God With Us
 
 *"God shall be with you"* &mdash; Gen. 48:21

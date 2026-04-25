@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # July 4 - The Word, Necessary Food
 
 *"Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."* &mdash; Matt. 4:4

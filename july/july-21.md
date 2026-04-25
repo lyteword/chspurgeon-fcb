@@ -1,3 +1,7 @@
+---
+weight: 21
+---
+
 # July 21 - Shine As Many Stars
 
 *"And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever."* &mdash; Dan. 12:3

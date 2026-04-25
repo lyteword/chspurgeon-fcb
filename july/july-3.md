@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # July 3 - A Guide All The Way
 
 *"He will be our guide even unto death"* &mdash; Ps. 48:14

@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # July 30 - Promise Of Future Meeting
 
 *"I will see you again, and your heart shall rejoice."* &mdash; John 16:22

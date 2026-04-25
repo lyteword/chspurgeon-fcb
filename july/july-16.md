@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # July 16 - Word To Him Who Halts
 
 *"I will save her that halteth."* &mdash; Zeph. 3:19

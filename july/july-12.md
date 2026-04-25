@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # July 12 - Whom, When, How To Deliver
 
 *"The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished."* &mdash; II Peter 2:9

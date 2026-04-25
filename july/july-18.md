@@ -1,3 +1,7 @@
+---
+weight: 18
+---
+
 # July 18 - Wilderness Communion
 
 *"I will allure her, and bring her into the wilderness, and speak comfortably unto her."* &mdash; Hosea 2:14

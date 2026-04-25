@@ -1,3 +1,7 @@
+---
+weight: 8
+---
+
 # July 8 - An Angel Encampment
 
 *"The angel of the Lord encampeth round about them that fear him, and delivereth them."* &mdash; Ps. 34:7

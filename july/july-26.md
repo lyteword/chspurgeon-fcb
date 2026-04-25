@@ -1,3 +1,7 @@
+---
+weight: 26
+---
+
 # July 26 - A Change Of Name
 
 *"And it shall be at that day, saith the Lord, that thou shalt call me Ishi; and shalt call me no more Baali; for I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name."* &mdash; Hosea 2:16

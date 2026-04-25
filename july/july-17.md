@@ -1,3 +1,7 @@
+---
+weight: 17
+---
+
 # July 17 - Valiant For Truth
 
 *"The people that do know their God shall be strong, and do exploits."* &mdash; Dan. 11:32

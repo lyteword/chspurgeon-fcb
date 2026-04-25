@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # July 13 - Implicit Trust
 
 *"For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the Lord."* &mdash; Jer. 39:18
