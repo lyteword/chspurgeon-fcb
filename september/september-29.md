@@ -1,6 +1,13 @@
 ---
+title: Sept. 29 - To Glorify Christ Jesus | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The Holy Ghost
+  Himself cannot better glorify the Lord Jesus than by showing to us Christ's own
+  things.
 ---
+
 
 # Sept. 29 - To Glorify Christ Jesus
 

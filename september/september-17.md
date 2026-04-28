@@ -1,6 +1,14 @@
 ---
+title: Sept. 17 - Like Palm And Cedar | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. These trees
+  are not trained and pruned by man: palms and cedars are "trees of the Lord," and
+  it is by His care that they flourish; even so it is with the saints of the Lord,
+  they are His own care.'
 ---
+
 
 # Sept. 17 - Like Palm And Cedar
 

@@ -1,6 +1,12 @@
 ---
+title: Sept. 28 - Work Is Done; Rest In Him | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. God has provided
+  a Sabbath, and some must enter into it.
 ---
+
 
 # Sept. 28 - Work Is Done; Rest In Him
 

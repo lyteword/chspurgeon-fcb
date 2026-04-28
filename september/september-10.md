@@ -1,6 +1,12 @@
 ---
+title: Sept. 10 - Coming In; Going Out | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The blessings
+  of the law are not cancelled.
 ---
+
 
 # Sept. 10 - Coming In; Going Out
 

@@ -1,6 +1,12 @@
 ---
+title: Sept. 8 - Broken And Smoking | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Then I may
+  reckon upon tender treatment from my Lord.
 ---
+
 
 # Sept. 8 - Broken And Smoking
 

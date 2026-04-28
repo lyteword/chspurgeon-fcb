@@ -1,6 +1,13 @@
 ---
+title: Sept. 24 - The Life-giving Stream | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The living
+  waters, in the prophet's vision, flowed into the Dead Sea, and carried life with
+  them, even into that stagnant lake.
 ---
+
 
 # Sept. 24 - The Life-giving Stream
 

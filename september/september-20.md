@@ -1,6 +1,13 @@
 ---
+title: Sept. 20 - Perfect Willingness | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Blessed be
+  the God of grace that it is so! He has a people whom He has chosen from of old to
+  be His peculiar portion.
 ---
+
 
 # Sept. 20 - Perfect Willingness
 

@@ -1,6 +1,12 @@
 ---
+title: Sept. 21 - Let Trials Bless | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is a
+  promise in essence if not in form.
 ---
+
 
 # Sept. 21 - Let Trials Bless
 

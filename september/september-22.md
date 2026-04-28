@@ -1,6 +1,13 @@
 ---
+title: Sept. 22 - Broad Rivers Without Galleys | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The Lord will
+  be to us the greatest good without any of the drawbacks which seem necessarily to
+  attend the best earthly things.
 ---
+
 
 # Sept. 22 - Broad Rivers Without Galleys
 

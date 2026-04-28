@@ -1,6 +1,12 @@
 ---
+title: Sept. 25 - The Sacrifice Has Been Accepted | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is a
+  sort of promise deduced by logic.
 ---
+
 
 # Sept. 25 - The Sacrifice Has Been Accepted
 

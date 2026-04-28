@@ -1,6 +1,12 @@
 ---
+title: Sept. 14 - Mark Of Divine Approval | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, he is
+  blessed while he is enduring the trial.
 ---
+
 
 # Sept. 14 - Mark Of Divine Approval
 

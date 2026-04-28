@@ -1,6 +1,12 @@
 ---
+title: Sept. 23 - Deliverance From Dust And Chaff | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The sifting
+  process is going on still.
 ---
+
 
 # Sept. 23 - Deliverance From Dust And Chaff
 

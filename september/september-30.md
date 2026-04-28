@@ -1,6 +1,13 @@
 ---
+title: Sept. 30 - Needs To Open Our Mouths | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What an encouragement
+  to pray! Our human notions would lead us to ask small things because our deservings
+  are so small; but the Lord would have us request great blessings.
 ---
+
 
 # Sept. 30 - Needs To Open Our Mouths
 

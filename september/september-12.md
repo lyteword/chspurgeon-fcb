@@ -1,6 +1,12 @@
 ---
+title: Sept. 12 - What Of My House? | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This gospel
+  for a man with a sword at his throat is the gospel for me.
 ---
+
 
 # Sept. 12 - What Of My House?
 

@@ -1,6 +1,13 @@
 ---
+title: Sept. 19 - The Reason For Singing | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What a word
+  is this! Jehovah God in the center of His people in all the majesty of His power!
+  This presence alone suffices to inspire us with peace and hope.
 ---
+
 
 # Sept. 19 - The Reason For Singing
 

@@ -1,6 +1,13 @@
 ---
+title: Sept. 26 - Among The Redeemed | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Who would
+  wish to dwell among the nations, and to be numbered with them? Why, even the professing
+  church is such that to follow the Lord fully within its bounds is very difficult.
 ---
+
 
 # Sept. 26 - Among The Redeemed
 

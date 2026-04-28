@@ -1,6 +1,13 @@
 ---
+title: Sept. 4 - Victory Without Battle | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Precious word!
+  Jehovah Himself will deliver His people in the greatness of His mercy, but He will
+  not do it by the ordinary means.
 ---
+
 
 # Sept. 4 - Victory Without Battle
 

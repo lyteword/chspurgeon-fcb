@@ -1,6 +1,13 @@
 ---
+title: Sept. 2 - Follow To Know | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Not all at
+  once, but by degrees shall we attain to holy knowledge, and our business is to persevere
+  and learn by little and little.
 ---
+
 
 # Sept. 2 - Follow To Know
 

@@ -1,6 +1,13 @@
 ---
+title: Sept. 7 - The Reach Of Almighty Grace | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Sovereign
+  grace can make strangers into sons, and the Lord here declares His purpose to deal
+  thus with rebels, and make them know what He has done.
 ---
+
 
 # Sept. 7 - The Reach Of Almighty Grace
 

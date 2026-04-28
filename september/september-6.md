@@ -1,6 +1,12 @@
 ---
+title: Sept. 6 - A Strong Heart | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Wait! Wait!
+  Let your waiting be on the Lord! He is worth waiting for.
 ---
+
 
 # Sept. 6 - A Strong Heart
 

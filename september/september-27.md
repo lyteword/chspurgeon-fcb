@@ -1,6 +1,13 @@
 ---
+title: Sept. 27 - The Divine Light In Darkness | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It may be
+  that my soul sits in darkness; and if this be of a spiritual kind, no human power
+  can bring me light.
 ---
+
 
 # Sept. 27 - The Divine Light In Darkness
 

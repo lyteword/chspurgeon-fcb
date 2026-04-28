@@ -1,6 +1,12 @@
 ---
+title: Sept. 16 - Reward Is Certain | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Well, I can
+  do as much as that.
 ---
+
 
 # Sept. 16 - Reward Is Certain
 

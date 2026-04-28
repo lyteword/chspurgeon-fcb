@@ -1,6 +1,13 @@
 ---
+title: Sept. 3 - Out Of Spiritual Death | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. Indeed it
+  must be so: those who receive life from the dead are sure to recognize the hand
+  of the Lord in such a resurrection.'
 ---
+
 
 # Sept. 3 - Out Of Spiritual Death
 

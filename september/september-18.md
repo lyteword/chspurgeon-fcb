@@ -1,6 +1,12 @@
 ---
+title: Sept. 18 - Complete Safety | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, there
+  is no safety like that which comes of dwelling near to God.
 ---
+
 
 # Sept. 18 - Complete Safety
 

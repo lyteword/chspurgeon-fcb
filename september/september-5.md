@@ -1,6 +1,13 @@
 ---
+title: Sept. 5 - With Me Wherever I Am | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This was a
+  great mercy for Jehoshaphat, for a great multitude had come out against him; and
+  it will be a great mercy for me, for I have great need, and I have no might or wisdom.
 ---
+
 
 # Sept. 5 - With Me Wherever I Am
 

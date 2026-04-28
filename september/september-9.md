@@ -1,6 +1,12 @@
 ---
+title: Sept. 9 - Fear Has Its Place | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The fear of
+  the Lord is the beginning and the foundation of all true religion.
 ---
+
 
 # Sept. 9 - Fear Has Its Place
 

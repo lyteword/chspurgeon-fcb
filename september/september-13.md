@@ -1,6 +1,13 @@
 ---
+title: Sept. 13 - The Dew Of Heaven | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What the dew
+  in the East is to the world of nature, that is the influence of the Spirit in the
+  realm of grace.
 ---
+
 
 # Sept. 13 - The Dew Of Heaven
 

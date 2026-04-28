@@ -1,6 +1,12 @@
 ---
+title: Sept. 11 - Sufferers Make Strong Believers | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is as
+  good as a promise.
 ---
+
 
 # Sept. 11 - Sufferers Make Strong Believers
 

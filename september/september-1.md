@@ -1,6 +1,12 @@
 ---
+title: Sept. 1 - Abiding In Obedience, In Love | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. These things
+  cannot be parted -- abiding in obedience, and abiding in the love of Jesus.
 ---
+
 
 # Sept. 1 - Abiding In Obedience, In Love
 
