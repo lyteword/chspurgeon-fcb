@@ -1,6 +1,14 @@
 ---
+title: April 13 - This Body Fashioned Anew | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Often when
+  we are racked with pain, and unable to think or worship, we feel that this indeed
+  is "the body of our humiliation," and when we are tempted by the passions which
+  rise from the flesh we do not think the word "vile" at all too vigorous a translation.
 ---
+
 
 # April 13 - This Body Fashioned Anew
 

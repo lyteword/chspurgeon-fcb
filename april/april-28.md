@@ -1,6 +1,12 @@
 ---
+title: April 28 - It Becomes Mutual | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Here is a
+  mutual interest.
 ---
+
 
 # April 28 - It Becomes Mutual
 

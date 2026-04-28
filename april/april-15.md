@@ -1,6 +1,12 @@
 ---
+title: April 15 - Desires Of Rlghteous Granted | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Because it
+  is a righteous desire it is safe for God to grant it.
 ---
+
 
 # April 15 - Desires Of Rlghteous Granted
 

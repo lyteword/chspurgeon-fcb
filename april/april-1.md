@@ -1,6 +1,13 @@
 ---
+title: April 1 - The King's Highway | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The way of
+  holiness is so straight and plain that the simplest minds cannot go astray if they
+  constantly follow it.
 ---
+
 
 # April 1 - The King's Highway
 

@@ -1,6 +1,12 @@
 ---
+title: April 23 - No Fear Of Death | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The first
+  death we must endure unless the Lord should suddenly come to His temple.
 ---
+
 
 # April 23 - No Fear Of Death
 

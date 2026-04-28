@@ -1,6 +1,13 @@
 ---
+title: April 2 - True Heart-energy | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is, practically,
+  a promise that, by diligent meditation and the giving up of our whole mind to our
+  work for the Lord, we shall make a progress which all can see.
 ---
+
 
 # April 2 - True Heart-energy
 

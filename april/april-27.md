@@ -1,6 +1,12 @@
 ---
+title: April 27 - God Finishes His Work | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. He who has
+  begun will carry on the work which is being wrought within my soul.
 ---
+
 
 # April 27 - God Finishes His Work
 

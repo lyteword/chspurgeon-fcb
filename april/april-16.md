@@ -1,6 +1,13 @@
 ---
+title: April 16 - All Turned To Holiness | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Happy day
+  when all things shall be consecrated, and the horses' bells shall ring out holiness
+  to the Lord! That day has come to me.
 ---
+
 
 # April 16 - All Turned To Holiness
 

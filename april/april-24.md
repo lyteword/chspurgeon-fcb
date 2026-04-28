@@ -1,6 +1,13 @@
 ---
+title: April 24 - Condition Of Blessing | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Many read
+  and plead this promise without noticing the condition upon which the blessing is
+  promised.
 ---
+
 
 # April 24 - Condition Of Blessing
 

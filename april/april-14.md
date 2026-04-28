@@ -1,6 +1,12 @@
 ---
+title: April 14 - My Choice Is His Choice | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Our enemies
+  would allot us a very dreary portion, but we are not left in their hands.
 ---
+
 
 # April 14 - My Choice Is His Choice
 

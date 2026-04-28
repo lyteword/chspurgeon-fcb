@@ -1,6 +1,13 @@
 ---
+title: April 26 - Gracious Dealing | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. An Israelitish
+  master was to give his bondservant liberty in due time, and when he left his service
+  he was to start him in life with a liberal portion.
 ---
+
 
 # April 26 - Gracious Dealing
 

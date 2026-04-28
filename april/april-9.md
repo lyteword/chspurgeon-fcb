@@ -1,6 +1,13 @@
 ---
+title: April 9 - The Bible's Supreme Place | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, a true
+  love for the great Book will bring us great peace from the great God, and be a great
+  protection to us.
 ---
+
 
 # April 9 - The Bible's Supreme Place
 

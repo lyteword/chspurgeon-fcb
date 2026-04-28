@@ -1,6 +1,13 @@
 ---
+title: April 8 - Preserved To Works End | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Are you a
+  witness for the Lord, and are you just now in danger? Then remember that you are
+  immortal till your work is done.
 ---
+
 
 # April 8 - Preserved To Works End
 

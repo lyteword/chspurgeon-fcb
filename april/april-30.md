@@ -1,6 +1,12 @@
 ---
+title: April 30 - The Overcomer's Reward | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. My heart,
+  be thou stirred up to persevere in the holy war, for the reward of victory is great.
 ---
+
 
 # April 30 - The Overcomer's Reward
 

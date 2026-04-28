@@ -1,6 +1,12 @@
 ---
+title: April 11 - Close Fellowship | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Truly, whatever
+  else we do not know, we know the Lord.
 ---
+
 
 # April 11 - Close Fellowship
 

@@ -1,6 +1,12 @@
 ---
+title: April 12 - He Remembers No More | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When we know
+  the Lord, we receive the forgiveness of sins.
 ---
+
 
 # April 12 - He Remembers No More
 

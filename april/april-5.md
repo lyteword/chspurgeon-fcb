@@ -1,6 +1,12 @@
 ---
+title: April 5 - Not Forgotten | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Our Jehovah
+  cannot so forget His servants as to cease to love them.
 ---
+
 
 # April 5 - Not Forgotten
 

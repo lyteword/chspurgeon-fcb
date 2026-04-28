@@ -1,6 +1,12 @@
 ---
+title: April 6 - One King, One Lord | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Blessed prospect!
+  This is no dream of an enthusiast, but the declaration of the infallible Word.
 ---
+
 
 # April 6 - One King, One Lord
 

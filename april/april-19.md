@@ -1,6 +1,13 @@
 ---
+title: April 19 - An Expert Searcher | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This He does
+  at the first when His elect are like wandering sheep that know not the Shepherd
+  or the fold.
 ---
+
 
 # April 19 - An Expert Searcher
 

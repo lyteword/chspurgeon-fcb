@@ -1,6 +1,12 @@
 ---
+title: April 20 - By Faith Not Feeling | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. I shall not
+  die.
 ---
+
 
 # April 20 - By Faith Not Feeling
 

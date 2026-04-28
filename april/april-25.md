@@ -1,6 +1,13 @@
 ---
+title: April 25 - What To Leave Children | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Anxiety about
+  our family is natural, but we shall be wise if we turn it into care about our own
+  character.
 ---
+
 
 # April 25 - What To Leave Children
 

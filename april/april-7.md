@@ -1,6 +1,12 @@
 ---
+title: April 7 - Without Fear Of Man | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Then we can
+  have no reason to be afraid of them.
 ---
+
 
 # April 7 - Without Fear Of Man
 

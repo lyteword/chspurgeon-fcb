@@ -1,6 +1,12 @@
 ---
+title: April 22 - Power To Raise | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Am I bowed
+  down? Then let me urge this word of grace before the Lord.
 ---
+
 
 # April 22 - Power To Raise
 

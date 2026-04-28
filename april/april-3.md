@@ -1,6 +1,12 @@
 ---
+title: April 3 - Sensitive To Warning | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Many despise
+  warning, and perish.
 ---
+
 
 # April 3 - Sensitive To Warning
 

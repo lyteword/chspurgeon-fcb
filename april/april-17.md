@@ -1,6 +1,12 @@
 ---
+title: April 17 - Enemies At Peace | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. I must see
+  that my ways please the Lord.
 ---
+
 
 # April 17 - Enemies At Peace
 

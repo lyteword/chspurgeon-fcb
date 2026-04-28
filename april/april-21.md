@@ -1,6 +1,12 @@
 ---
+title: April 21 - God Repays | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We are to
+  give to the poor out of pity.
 ---
+
 
 # April 21 - God Repays
 

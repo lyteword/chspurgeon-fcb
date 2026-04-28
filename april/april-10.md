@@ -1,6 +1,12 @@
 ---
+title: April 10 - Look And Live | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is a
+  glorious gospel type.
 ---
+
 
 # April 10 - Look And Live
 

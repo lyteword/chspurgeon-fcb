@@ -1,6 +1,12 @@
 ---
+title: April 29 - Forget And Forgive | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Be not in
+  haste.
 ---
+
 
 # April 29 - Forget And Forgive
 

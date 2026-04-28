@@ -1,6 +1,13 @@
 ---
+title: April 18 - He Never Fails | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This word
+  to Joshua is often quoted; it is the basis of that New Testament word, "He hath
+  said, I will never leave thee, nor forsake thee."
 ---
+
 
 # April 18 - He Never Fails
 

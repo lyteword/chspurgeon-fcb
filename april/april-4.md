@@ -1,6 +1,12 @@
 ---
+title: April 4 - God's Hornets | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What the hornets
+  were we need not consider.
 ---
+
 
 # April 4 - God's Hornets
 
