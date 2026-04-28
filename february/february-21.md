@@ -1,6 +1,12 @@
 ---
+title: February 21 - Blessing On Littleness | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is a
+  word of cheer to those who are of humble station and mean estate.
 ---
+
 
 # February 21 - Blessing On Littleness
 

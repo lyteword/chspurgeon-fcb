@@ -1,6 +1,12 @@
 ---
+title: February 3 - He Freely Gives | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If this is
+  not a promise in form, it is in fact.
 ---
+
 
 # February 3 - He Freely Gives
 

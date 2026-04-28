@@ -1,6 +1,12 @@
 ---
+title: February 18 - God Will Answer | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. His own Spirit
+  has wrought this desire in us, and therefore He will answer it.
 ---
+
 
 # February 18 - God Will Answer
 

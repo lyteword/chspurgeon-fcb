@@ -1,6 +1,12 @@
 ---
+title: February 19 - Better Farther On | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. There is a
+  limit to affliction.
 ---
+
 
 # February 19 - Better Farther On
 

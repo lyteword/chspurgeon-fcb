@@ -1,6 +1,13 @@
 ---
+title: February 20 - Continual Guidance | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What aileth
+  thee? Hast thou lost thy way? Art thou entangled in a dark wood, and canst thou
+  not find thy paths? Stand still, and see the salvation of God.
 ---
+
 
 # February 20 - Continual Guidance
 

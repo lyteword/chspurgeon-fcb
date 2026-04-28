@@ -1,6 +1,12 @@
 ---
+title: February 29 - What Follows Us | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. A devout poet
+  sings-
 ---
+
 
 # February 29 - What Follows Us
 

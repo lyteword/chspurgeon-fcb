@@ -1,6 +1,13 @@
 ---
+title: February 25 - Set Apart | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This literal
+  promise to Israel belongs spiritually to the seed after the Spirit, namely, to all
+  believers.
 ---
+
 
 # February 25 - Set Apart
 

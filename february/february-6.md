@@ -1,6 +1,13 @@
 ---
+title: February 6 - Blessing In The City | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The city is
+  full of care, and he who has to go there from day to day finds it to be a place
+  of great wear and tear.
 ---
+
 
 # February 6 - Blessing In The City
 

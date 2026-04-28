@@ -1,6 +1,13 @@
 ---
+title: February 23 - Unbroken Fellowship Essential | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Of necessity
+  we must be in Christ to live unto Him, and we must abide in Him to be able to claim
+  the largesse of this promise from Him.
 ---
+
 
 # February 23 - Unbroken Fellowship Essential
 

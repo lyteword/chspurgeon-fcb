@@ -1,6 +1,13 @@
 ---
+title: February 9 - The Dross Purged | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Grace transmutes
+  us into precious metal, and then the fire and the furnace follow as a necessary
+  consequence.
 ---
+
 
 # February 9 - The Dross Purged
 

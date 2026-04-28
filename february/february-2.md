@@ -1,6 +1,13 @@
 ---
+title: February 2 - Grow Up | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, when
+  the sun shines, the sick quit their chambers, and walk abroad to breathe the fresh
+  air.
 ---
+
 
 # February 2 - Grow Up
 

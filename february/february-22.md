@@ -1,6 +1,13 @@
 ---
+title: February 22 - Past Deliverance Begets Faith | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is not
+  a promise if we consider only the words, but it is truly so as to its sense; for
+  David spoke a word which the Lord endorsed by making it true.
 ---
+
 
 # February 22 - Past Deliverance Begets Faith
 

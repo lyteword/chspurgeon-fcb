@@ -1,6 +1,14 @@
 ---
+title: February 14 - Mercy To The Undeserving | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. O fair reward
+  of trust! My Lord, grant it me to the full! The truster above all men feels himself
+  to be a sinner; and lo, mercy is prepared for him: he knows himself to have no deservings,
+  but mercy comes in, and keeps house for him on a liberal scale.'
 ---
+
 
 # February 14 - Mercy To The Undeserving
 

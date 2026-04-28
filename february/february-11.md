@@ -1,6 +1,12 @@
 ---
+title: February 11 - Are The Children In? | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Our dear children
+  have not the Spirit of God by nature, as we plainly see.
 ---
+
 
 # February 11 - Are The Children In?
 

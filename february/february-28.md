@@ -1,6 +1,11 @@
 ---
+title: February 28 - Real Estate In Heaven | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is well.
 ---
+
 
 # February 28 - Real Estate In Heaven
 

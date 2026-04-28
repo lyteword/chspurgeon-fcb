@@ -1,6 +1,12 @@
 ---
+title: February 26 - Truth Established | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Truth wears
+  well.
 ---
+
 
 # February 26 - Truth Established
 

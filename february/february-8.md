@@ -1,6 +1,12 @@
 ---
+title: February 8 - Joyful Security | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Fear of falling
+  is wholesome.
 ---
+
 
 # February 8 - Joyful Security
 

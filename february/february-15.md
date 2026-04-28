@@ -1,6 +1,12 @@
 ---
+title: February 15 - Ever Mindful | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. I can set
+  my seal to that first sentence.
 ---
+
 
 # February 15 - Ever Mindful
 

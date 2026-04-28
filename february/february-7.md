@@ -1,6 +1,12 @@
 ---
+title: February 7 - Return From Backsliding | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Eliphaz, in
+  this utterance, spoke a great truth, which is the summary of many an inspired Scripture.
 ---
+
 
 # February 7 - Return From Backsliding
 

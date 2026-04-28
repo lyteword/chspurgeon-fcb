@@ -1,6 +1,12 @@
 ---
+title: February 17 - God Can Make You Strong | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. God had done
+  great things for King Asa and Judah, but yet they were a feeble folk.
 ---
+
 
 # February 17 - God Can Make You Strong
 

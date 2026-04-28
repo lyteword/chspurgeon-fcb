@@ -1,6 +1,13 @@
 ---
+title: February 5 - Justice Satisfied | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. My own sight
+  of the precious blood is for my comfort; but it is the Lord's sight of it which
+  secures my safety.
 ---
+
 
 # February 5 - Justice Satisfied
 

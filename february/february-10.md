@@ -1,6 +1,12 @@
 ---
+title: February 10 - A Constant Witness | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Paul was chosen
+  to see and hear the Lord speaking to him out of Heaven.
 ---
+
 
 # February 10 - A Constant Witness
 

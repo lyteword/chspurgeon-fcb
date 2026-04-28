@@ -1,6 +1,12 @@
 ---
+title: February 4 - He Will Return | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. He left us,
+  and yet we are not left orphans.
 ---
+
 
 # February 4 - He Will Return
 

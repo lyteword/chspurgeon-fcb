@@ -1,6 +1,13 @@
 ---
+title: February 1 - Never Despair | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Fulfilled
+  once in the first advent of our glorious Lord, and yet to have a fuller accomplishment
+  in His second advent, this gracious word is also for daily use.
 ---
+
 
 # February 1 - Never Despair
 

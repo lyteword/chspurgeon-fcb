@@ -1,6 +1,12 @@
 ---
+title: February 24 - Hear So As To Be Heard | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Note well,
+  that we must hear Jesus speak if we expect Him to hear us speak.
 ---
+
 
 # February 24 - Hear So As To Be Heard
 

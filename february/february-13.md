@@ -1,6 +1,12 @@
 ---
+title: February 13 - Blessed In The Field | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. So was Isaac
+  blessed when he walked therein at eventide to meditate.
 ---
+
 
 # February 13 - Blessed In The Field
 

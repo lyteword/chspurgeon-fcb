@@ -1,6 +1,12 @@
 ---
+title: February 12 - God Delights To Give | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. A special
+  blessing for a memorable occasion.
 ---
+
 
 # February 12 - God Delights To Give
 

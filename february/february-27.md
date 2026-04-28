@@ -1,6 +1,12 @@
 ---
+title: February 27 - Unstaggering Trustfulness | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Suspense is
+  dreadful.
 ---
+
 
 # February 27 - Unstaggering Trustfulness
 

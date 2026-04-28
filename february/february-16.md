@@ -1,6 +1,12 @@
 ---
+title: February 16 - You Deal With God | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The Lord thus
+  makes known His sparing mercies.
 ---
+
 
 # February 16 - You Deal With God
 
