@@ -1,6 +1,13 @@
 ---
+title: January 17 - A Man Without Fear | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Of course,
+  if the Lord sent Moses on an errand, He would not let him go alone.
 ---
+
+
 
 # January 17 - A Man Without Fear
 

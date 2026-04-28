@@ -1,6 +1,13 @@
 ---
+title: January 2 - Conquest To Victory | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This promise
+  follows well upon that of yesterday.
 ---
+
+
 
 # January 2 - Conquest To Victory
 

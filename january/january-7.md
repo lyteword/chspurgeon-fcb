@@ -1,6 +1,14 @@
 ---
+title: January 7 - Always Growing | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is spoken
+  to a childlike believer, who was ready to accept Jesus as the Son of God, the King
+  of Israel, upon one convincing piece of argument.
 ---
+
+
 
 # January 7 - Always Growing
 

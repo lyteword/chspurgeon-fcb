@@ -1,6 +1,13 @@
 ---
+title: January 8 - Purity Of Heart And Life | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Purity, even
+  purity of heart, is the main thing to be aimed at.
 ---
+
+
 
 # January 8 - Purity Of Heart And Life
 

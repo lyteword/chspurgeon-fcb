@@ -1,6 +1,13 @@
 ---
+title: January 19 - Mouth Confession; Heart Belief | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. There must
+  be confession with the mouth.
 ---
+
+
 
 # January 19 - Mouth Confession; Heart Belief
 

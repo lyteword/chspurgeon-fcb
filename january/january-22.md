@@ -1,6 +1,14 @@
 ---
+title: January 22 - Christian Liberality | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. To think about
+  the poor and let them lie on our hearts is a Christian man's duty; for Jesus put
+  them with us and near us when He said, "The poor ye have always with you."
 ---
+
+
 
 # January 22 - Christian Liberality
 

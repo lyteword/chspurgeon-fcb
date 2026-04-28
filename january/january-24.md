@@ -1,6 +1,13 @@
 ---
+title: January 24 - Care Of Our Feet | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The way is
+  slippery, and our feet are feeble, but the Lord will keep our feet.
 ---
+
+
 
 # January 24 - Care Of Our Feet
 

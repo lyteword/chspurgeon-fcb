@@ -1,6 +1,13 @@
 ---
+title: January 18 - Christ And His Children | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Our Lord Jesus
+  has not died in vain.
 ---
+
+
 
 # January 18 - Christ And His Children
 

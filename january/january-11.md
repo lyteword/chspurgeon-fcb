@@ -1,6 +1,14 @@
 ---
+title: January 11 - Faith Sees The Bow | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Just now clouds
+  are plentiful enough, but we are not afraid that the world will be destroyed by
+  a deluge.
 ---
+
+
 
 # January 11 - Faith Sees The Bow
 

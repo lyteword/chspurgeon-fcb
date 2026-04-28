@@ -1,6 +1,13 @@
 ---
+title: January 12 - "love Unto The End" | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. He may cast
+  away for a season, but not for ever.
 ---
+
+
 
 # January 12 - "love Unto The End"
 

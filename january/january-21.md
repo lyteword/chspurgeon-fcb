@@ -1,6 +1,13 @@
 ---
+title: January 21 - God's Enemies Shall Bow | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The ungodly
+  world is hard to teach.
 ---
+
+
 
 # January 21 - God's Enemies Shall Bow
 

@@ -1,6 +1,14 @@
 ---
+title: January 29 - Obedience Brings Blessing | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Though salvation
+  is not by the works of the law, yet the blessings which are promised to obedience
+  are not denied to the faithful servants of God.
 ---
+
+
 
 # January 29 - Obedience Brings Blessing
 

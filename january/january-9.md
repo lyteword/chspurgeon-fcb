@@ -1,6 +1,13 @@
 ---
+title: January 9 - Gaining By Giving | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If I desire
+  to flourish in soul, I must not hoard up my stores, but must distribute to the poor.
 ---
+
+
 
 # January 9 - Gaining By Giving
 

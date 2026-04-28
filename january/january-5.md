@@ -1,6 +1,14 @@
 ---
+title: January 5 - A Wonderful Guarantee | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When called
+  to serve or to suffer, we take stock of our strength, and we find it to be less
+  than we thought, and less than we need.
 ---
+
+
 
 # January 5 - A Wonderful Guarantee
 

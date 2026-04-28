@@ -1,6 +1,15 @@
 ---
+title: January 27 - Precious Repentance | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When we are
+  accepted of the Lord, and are standing in the place of favor, and peace, and safety,
+  then we are led to repent of all our failures and miscarriages toward our gracious
+  God.
 ---
+
+
 
 # January 27 - Precious Repentance
 

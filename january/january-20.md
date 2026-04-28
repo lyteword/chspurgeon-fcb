@@ -1,6 +1,13 @@
 ---
+title: January 20 - The Overcomer | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. No man may
+  turn his back in the day of battle, or refuse to go to the holy war.
 ---
+
+
 
 # January 20 - The Overcomer
 

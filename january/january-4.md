@@ -1,6 +1,13 @@
 ---
+title: January 4 - In Calm Repose | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, the Saints
+  are to have peace.
 ---
+
+
 
 # January 4 - In Calm Repose
 

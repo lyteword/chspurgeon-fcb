@@ -1,6 +1,14 @@
 ---
+title: January 25 - He Acts On Honest Confession | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is a
+  word of truth, gathered from the experience of a man of God, and it is tantamount
+  to a promise.
 ---
+
+
 
 # January 25 - He Acts On Honest Confession
 

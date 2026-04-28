@@ -1,6 +1,13 @@
 ---
+title: January 28 - Tears Shall Cease | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, we shall
+  come to this if we are believers.
 ---
+
+
 
 # January 28 - Tears Shall Cease
 

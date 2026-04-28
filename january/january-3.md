@@ -1,6 +1,13 @@
 ---
+title: January 3 - Rest On A Promise | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. No promise
+  is of private interpretation: it belongs not to one saint, but to all believers.'
 ---
+
+
 
 # January 3 - Rest On A Promise
 

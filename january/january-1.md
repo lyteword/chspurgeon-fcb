@@ -1,6 +1,13 @@
 ---
+title: January 1 - The Bible's First Promise | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is the
+  first promise to fallen man.
 ---
+
+
 
 # January 1 - The Bible's First Promise
 

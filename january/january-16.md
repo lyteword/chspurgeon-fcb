@@ -1,6 +1,18 @@
 ---
+title: January 16 - Even The Faintest Call | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Why do I not
+  call on His name? Why do I run to this neighbor and that, when God is so near and
+  will hear my faintest call? Why do I sit down, and devise schemes, and invent plans?
+  Why not at once roll myself and my burden upon the Lord? Straightforward is the
+  best runner -- why do I not run at once to the living God? In vain shall I look
+  for deliverance anywhere else; but with God I shall find it; for here I have His
+  royal SHALL to make it sure.
 ---
+
+
 
 # January 16 - Even The Faintest Call
 

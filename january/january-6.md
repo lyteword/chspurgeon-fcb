@@ -1,6 +1,14 @@
 ---
+title: January 6 - Help From Without | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yesterday's
+  promise secured us strength for what we have to do, but this guarantees us aid in
+  cases where we cannot act alone.
 ---
+
+
 
 # January 6 - Help From Without
 

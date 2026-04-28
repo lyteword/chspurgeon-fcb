@@ -1,6 +1,14 @@
 ---
+title: January 26 - God Routs Fear | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. How this should
+  cut up root and branch all silly, superstitious fears! Even if there were any truth
+  in witchcraft and omens, they could not affect the people of the Lord.
 ---
+
+
 
 # January 26 - God Routs Fear
 

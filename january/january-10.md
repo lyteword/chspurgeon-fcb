@@ -1,6 +1,14 @@
 ---
+title: January 10 - Divine Recompense | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If I carefully
+  consider others, God will consider me; and in some way or other He will recompense
+  me.
 ---
+
+
 
 # January 10 - Divine Recompense
 

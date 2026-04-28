@@ -1,6 +1,13 @@
 ---
+title: January 14 - Rest Is A Gift | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We who are
+  saved find rest in Jesus.
 ---
+
+
 
 # January 14 - Rest Is A Gift
 

@@ -1,6 +1,14 @@
 ---
+title: January 31 - God Always Hears | Faith's Checkbook Online
+linkTitle: '31'
 weight: 31
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Friends may
+  be unfaithful, but the Lord will not turn away from the gracious soul; on the contrary,
+  He will hear all its desires.
 ---
+
+
 
 # January 31 - God Always Hears
 

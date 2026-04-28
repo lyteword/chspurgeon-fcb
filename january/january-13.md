@@ -1,6 +1,14 @@
 ---
+title: January 13 - Never Cast Out | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Is there any
+  instance of our Lord's casting out a coming one? If there be so, we would like to
+  know of it; but there has been none, and there never will be.
 ---
+
+
 
 # January 13 - Never Cast Out
 

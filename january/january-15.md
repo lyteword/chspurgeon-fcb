@@ -1,6 +1,13 @@
 ---
+title: January 15 - Made Rich By Faith | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Poverty is
+  a hard heritage; but those who trust in the Lord are made rich by faith.
 ---
+
+
 
 # January 15 - Made Rich By Faith
 

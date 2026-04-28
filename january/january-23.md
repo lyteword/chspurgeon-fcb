@@ -1,6 +1,14 @@
 ---
+title: January 23 - A Completed Sacrifice | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If by that
+  laying on of his hand the bullock became the offerer's sacrifice, how much more
+  shall Jesus become ours by the laying on of the hand of faith?
 ---
+
+
 
 # January 23 - A Completed Sacrifice
 

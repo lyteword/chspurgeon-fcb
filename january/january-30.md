@@ -1,6 +1,13 @@
 ---
+title: January 30 - A Heavenly Escort | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Do we need
+  journeying mercies? Here are choice ones -- God's presence and preservation.
 ---
+
+
 
 # January 30 - A Heavenly Escort
 
