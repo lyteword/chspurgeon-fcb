@@ -1,6 +1,12 @@
 ---
+title: March 30 - Prayer, Thanksgiving, Praise | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. No care, but
+  all prayer.
 ---
+
 
 # March 30 - Prayer, Thanksgiving, Praise
 

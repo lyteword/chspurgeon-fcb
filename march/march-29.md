@@ -1,6 +1,12 @@
 ---
+title: March 29 - Dauntless Faith | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. So long as
+  the Lord had work for Paul to do in Corinth, the fury of the mob was restrained.
 ---
+
 
 # March 29 - Dauntless Faith
 

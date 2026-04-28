@@ -1,6 +1,12 @@
 ---
+title: March 14 - Tender Comfort | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. A mother's
+  comfort! Ah, this is tenderness itself.
 ---
+
 
 # March 14 - Tender Comfort
 

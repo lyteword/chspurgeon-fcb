@@ -1,6 +1,12 @@
 ---
+title: March 21 - Avoid That Slip | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. That is to
+  say, if we follow the ways of wisdom and holiness we shall be preserved in them.
 ---
+
 
 # March 21 - Avoid That Slip
 

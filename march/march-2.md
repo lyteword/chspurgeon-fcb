@@ -1,6 +1,12 @@
 ---
+title: March 2 - Giving Without A Whisper | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. No promise
+  is made to those who give to the poor to be seen of men.
 ---
+
 
 # March 2 - Giving Without A Whisper
 

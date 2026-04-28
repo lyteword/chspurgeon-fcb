@@ -1,6 +1,12 @@
 ---
+title: March 8 - Our Substance Blessed | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Obedience
+  brings a blessing on all the provisions which our industry earns for us.
 ---
+
 
 # March 8 - Our Substance Blessed
 

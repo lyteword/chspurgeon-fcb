@@ -1,6 +1,12 @@
 ---
+title: March 26 - The Care Of The Poor | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Remember that
+  this is a promise to the man who considers the poor.
 ---
+
 
 # March 26 - The Care Of The Poor
 

@@ -1,6 +1,12 @@
 ---
+title: March 7 - From Fetters Free | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. He has done
+  it.
 ---
+
 
 # March 7 - From Fetters Free
 

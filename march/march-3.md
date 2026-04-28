@@ -1,6 +1,13 @@
 ---
+title: March 3 - Not Left To Perish | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This word
+  has its proper fulfillment in the Lord Jesus; but it applies also, with a variation,
+  to all who are in Him.
 ---
+
 
 # March 3 - Not Left To Perish
 

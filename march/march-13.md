@@ -1,6 +1,15 @@
 ---
+title: March 13 - Despise Not Thy Youth | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Jeremiah was
+  young and felt a natural shrinking when sent upon a great errand by the Lord; but
+  He who sent him would not have him say, "I am a child." What he was in himself must
+  not be mentioned, but lost in the consideration that he was chosen to speak for
+  God.
 ---
+
 
 # March 13 - Despise Not Thy Youth
 

@@ -1,6 +1,13 @@
 ---
+title: March 4 - Honor God | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Do I make
+  the honor of God the great object of my life and the rule of my conduct? If so,
+  He will honor me.
 ---
+
 
 # March 4 - Honor God
 

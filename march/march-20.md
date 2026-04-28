@@ -1,6 +1,13 @@
 ---
+title: March 20 - Divine Provision | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Clothes are
+  expensive, and poor believers may be led into anxiety as to where their next suit
+  will come from.
 ---
+
 
 # March 20 - Divine Provision
 

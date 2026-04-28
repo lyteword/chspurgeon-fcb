@@ -1,6 +1,12 @@
 ---
+title: March 24 - Established And Kept | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Men are often
+  as devoid of reason as of faith.
 ---
+
 
 # March 24 - Established And Kept
 

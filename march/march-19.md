@@ -1,6 +1,12 @@
 ---
+title: March 19 - Becoming Fit For Glory | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Grace is what
+  we need just now, and it is to be had freely.
 ---
+
 
 # March 19 - Becoming Fit For Glory
 

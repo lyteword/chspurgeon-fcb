@@ -1,6 +1,14 @@
 ---
+title: March 25 - Refreshing Sleep | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Is the reader
+  likely to be confined for a while to the bed by sickness? Let him go upstairs without
+  distress with this promise upon his heart -- "When thou liest down, thou shalt not
+  be afraid."
 ---
+
 
 # March 25 - Refreshing Sleep
 

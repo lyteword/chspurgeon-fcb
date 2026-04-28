@@ -1,6 +1,12 @@
 ---
+title: March 28 - Lead The Way | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If we obey
+  the Lord, He will compel our adversaries to see that His blessing rests upon us.
 ---
+
 
 # March 28 - Lead The Way
 

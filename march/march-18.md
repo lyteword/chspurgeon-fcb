@@ -1,6 +1,13 @@
 ---
+title: March 18 - Continue Upright | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is as
+  good as a promise, for it declares a present fact, which will be the same throughout
+  all ages.
 ---
+
 
 # March 18 - Continue Upright
 

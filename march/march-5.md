@@ -1,6 +1,13 @@
 ---
+title: March 5 - Home Blessings | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. He fears the
+  Lord, and therefore he comes under the divine protection even as to the roof which
+  covers himself and his family.
 ---
+
 
 # March 5 - Home Blessings
 

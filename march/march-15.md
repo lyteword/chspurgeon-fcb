@@ -1,6 +1,12 @@
 ---
+title: March 15 - God Is A Sanctuary | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Banished from
+  the public means of grace, we are not removed from the grace of the means.
 ---
+
 
 # March 15 - God Is A Sanctuary
 

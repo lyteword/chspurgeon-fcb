@@ -1,6 +1,13 @@
 ---
+title: March 10 - Walk In Light | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This world
+  is dark as midnight; Jesus has come that by faith we may have light, and may no
+  longer sit in the gloom which covers all the rest of mankind.
 ---
+
 
 # March 10 - Walk In Light
 

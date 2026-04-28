@@ -1,6 +1,14 @@
 ---
+title: March 9 - Prayer For Peace | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The principle
+  involved in this text would suggest to all of us who are the Lord's strangers and
+  foreigners that we should be desirous to promote the peace and prosperity of the
+  people among whom we dwell.
 ---
+
 
 # March 9 - Prayer For Peace
 

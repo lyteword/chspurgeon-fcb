@@ -1,6 +1,13 @@
 ---
+title: March 12 - Going Out With Joy | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The blessings
+  of the tribes are ours; for we are the true Israel who worship God in the spirit,
+  and have no confidence in the flesh.
 ---
+
 
 # March 12 - Going Out With Joy
 

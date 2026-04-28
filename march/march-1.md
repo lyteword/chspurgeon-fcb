@@ -1,6 +1,13 @@
 ---
+title: March 1 - Joy For The Cast-out | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Possibly this
+  text may not apply to one in a thousand of the readers of this little book of promises;
+  but the Lord cheers that one in such words as these.
 ---
+
 
 # March 1 - Joy For The Cast-out
 

@@ -1,6 +1,12 @@
 ---
+title: March 27 - Drawing Near To God | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The nearer
+  we come to God, the more graciously will He reveal Himself to us.
 ---
+
 
 # March 27 - Drawing Near To God
 

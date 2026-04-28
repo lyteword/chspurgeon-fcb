@@ -1,6 +1,12 @@
 ---
+title: March 17 - Fear To Fear | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Whenever fear
+  comes in and makes us falter, we are in danger of falling into sin.
 ---
+
 
 # March 17 - Fear To Fear
 

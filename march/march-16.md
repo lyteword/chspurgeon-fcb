@@ -1,6 +1,12 @@
 ---
+title: March 16 - To Others An "ensample" | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It is well
+  when a man can with advantage be so minutely copied as Paul might have been.
 ---
+
 
 # March 16 - To Others An "ensample"
 

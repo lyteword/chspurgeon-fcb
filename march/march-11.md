@@ -1,6 +1,13 @@
 ---
+title: March 11 - Whose Battle? | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Let this point
+  be settled, that the battle is the Lord's, and we may be quite sure of the victory,
+  and of the victory in such a way as will best of all display the power of God.
 ---
+
 
 # March 11 - Whose Battle?
 

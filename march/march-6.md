@@ -1,6 +1,13 @@
 ---
+title: March 6 - Guardian Of The Fatherless | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is an
+  excellent reason for casting away all other confidences and relying upon the Lord
+  alone.
 ---
+
 
 # March 6 - Guardian Of The Fatherless
 

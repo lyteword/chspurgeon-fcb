@@ -1,6 +1,13 @@
 ---
+title: March 23 - A Sure Guide | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Think of the
+  infinitely glorious Jehovah acting as a Guide to the blind! What boundless condescension
+  does this imply! A blind man cannot find a way which he does not know.
 ---
+
 
 # March 23 - A Sure Guide
 

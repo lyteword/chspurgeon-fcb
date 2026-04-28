@@ -1,6 +1,12 @@
 ---
+title: March 22 - Grace For The Humble | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Humble hearts
+  seek grace, and therefore they get it.
 ---
+
 
 # March 22 - Grace For The Humble
 

@@ -1,6 +1,12 @@
 ---
+title: March 31 - Presence Of Mind | Faith's Checkbook Online
+linkTitle: '31'
 weight: 31
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When God is
+  abroad in judgments, He would not have His people alarmed.
 ---
+
 
 # March 31 - Presence Of Mind
 
