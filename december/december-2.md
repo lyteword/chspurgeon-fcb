@@ -1,6 +1,12 @@
 ---
+title: December 2 - Our Holiest Example | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is the
+  way to live.
 ---
+
 
 # December 2 - Our Holiest Example
 

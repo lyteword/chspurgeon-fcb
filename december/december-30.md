@@ -1,6 +1,13 @@
 ---
+title: December 30 - Loved To Perfection | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This fact
+  is essentially a promise; for what our Lord was He is, and what He was to those
+  with whom He lived on earth, He will be to all His beloved so long as the moon endureth.
 ---
+
 
 # December 30 - Loved To Perfection
 

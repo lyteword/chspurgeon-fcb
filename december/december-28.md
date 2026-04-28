@@ -1,6 +1,12 @@
 ---
+title: December 28 - Absolute Assurance | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Several times
+  in the Scriptures the Lord hath said this.
 ---
+
 
 # December 28 - Absolute Assurance
 

@@ -1,6 +1,12 @@
 ---
+title: December 13 - Evening Brightens Into Day | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It is a surprise
+  that it should be so; for all things threaten that at evening time it shall be dark.
 ---
+
 
 # December 13 - Evening Brightens Into Day
 

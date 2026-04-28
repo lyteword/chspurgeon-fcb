@@ -1,6 +1,12 @@
 ---
+title: December 22 - Immediately Present | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. A help that
+  is not present when we need it is of small value.
 ---
+
 
 # December 22 - Immediately Present
 

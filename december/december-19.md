@@ -1,6 +1,14 @@
 ---
+title: December 19 - Afflictions, But No Broken Bones | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. This promise
+  by the context is referred to the much afflicted righteous man: "Many are the afflictions
+  of the righteous, but the Lord delivereth him out of them all." He may suffer skin-wounds
+  and flesh-wounds, but no great harm shall be done, "not a bone of him shall be broken."'
 ---
+
 
 # December 19 - Afflictions, But No Broken Bones
 

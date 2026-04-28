@@ -1,6 +1,15 @@
 ---
+title: December 7 - Gift Of Strength; Peace To Bless | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. David had
+  just heard the voice of the Lord in a thunderstorm, and had seen His power in the
+  hurricane whose path he had described; and now, in the cool calm after the storm,
+  that overwhelming power by which Heaven and earth are shaken is promised to be the
+  strength of the chosen.
 ---
+
 
 # December 7 - Gift Of Strength; Peace To Bless
 

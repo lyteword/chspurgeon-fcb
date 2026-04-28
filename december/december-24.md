@@ -1,6 +1,13 @@
 ---
+title: December 24 - Over Jordan With Singing | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. That arch-enemy,
+  the devil, is a liar from the beginning; but he is so very plausible that, like
+  mother Eve, we are led to believe him.
 ---
+
 
 # December 24 - Over Jordan With Singing
 

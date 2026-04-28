@@ -1,6 +1,13 @@
 ---
+title: December 25 - He Came; He Is Coming | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Many are celebrating
+  our Lord's first coming this day; let us turn our thoughts to the promise of His
+  second coming.
 ---
+
 
 # December 25 - He Came; He Is Coming
 

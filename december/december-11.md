@@ -1,6 +1,13 @@
 ---
+title: December 11 - Trust And Do; Do And Trust | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Trust and
+  do are words which go well together, in the order in which the Holy Spirit has placed
+  them.
 ---
+
 
 # December 11 - Trust And Do; Do And Trust
 

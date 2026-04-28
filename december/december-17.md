@@ -1,6 +1,12 @@
 ---
+title: December 17 - Nearest And Dearest Fellowship | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. While we are
+  here the Lord is with us, and when we are called away we are with Him.
 ---
+
 
 # December 17 - Nearest And Dearest Fellowship
 

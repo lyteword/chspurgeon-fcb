@@ -1,6 +1,14 @@
 ---
+title: December 15 - World Concord | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Oh, that these
+  happy times were come! At present the nations are heavily armed, and are inventing
+  weapons more and more terrible, as if the chief end of man could only be answered
+  by destroying myriads of his fellows.
 ---
+
 
 # December 15 - World Concord
 

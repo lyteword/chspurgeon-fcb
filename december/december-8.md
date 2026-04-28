@@ -1,6 +1,12 @@
 ---
+title: December 8 - Following Leads To Honor | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The highest
+  service is imitation.
 ---
+
 
 # December 8 - Following Leads To Honor
 

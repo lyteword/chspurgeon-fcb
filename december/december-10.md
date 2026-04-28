@@ -1,6 +1,12 @@
 ---
+title: December 10 - God Is Our Ally | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The Lord Christ
+  in the midst of His people is to be acknowledged and obeyed.
 ---
+
 
 # December 10 - God Is Our Ally
 

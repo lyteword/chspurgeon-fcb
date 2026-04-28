@@ -1,6 +1,12 @@
 ---
+title: December 21 - From Anger To Love | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. God never
+  turns from His love, but He soon turns from His wrath.
 ---
+
 
 # December 21 - From Anger To Love
 

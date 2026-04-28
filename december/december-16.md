@@ -1,6 +1,13 @@
 ---
+title: December 16 - Divine Expulsion | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It is a great
+  encouragement to valor to be assured of victory, for then a man goes forth to war
+  in confidence, and ventures where else he had been afraid to go.
 ---
+
 
 # December 16 - Divine Expulsion
 

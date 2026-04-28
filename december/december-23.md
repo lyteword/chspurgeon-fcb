@@ -1,6 +1,12 @@
 ---
+title: December 23 - Precious Things | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We may be
+  rich in such things as Joseph obtained, and we may have them in a higher sense.
 ---
+
 
 # December 23 - Precious Things
 

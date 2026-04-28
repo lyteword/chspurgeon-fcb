@@ -1,6 +1,13 @@
 ---
+title: December 4 - Covered And Protected | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. A condescending
+  simile indeed! Just as a hen protects her brood and allows them to nestle under
+  her wings, so will the Lord defend His people, and permit them to hide away in Him.
 ---
+
 
 # December 4 - Covered And Protected
 

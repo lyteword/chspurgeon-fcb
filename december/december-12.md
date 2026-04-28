@@ -1,6 +1,12 @@
 ---
+title: December 12 - A Quiet Heart | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It is always
+  weakness to be fretting and worrying, questioning and mistrusting.
 ---
+
 
 # December 12 - A Quiet Heart
 

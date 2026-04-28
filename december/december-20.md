@@ -1,6 +1,12 @@
 ---
+title: December 20 - Men As Men; God As God | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Let the text
+  itself be taken as the portion for today.
 ---
+
 
 # December 20 - Men As Men; God As God
 

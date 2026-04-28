@@ -1,6 +1,12 @@
 ---
+title: December 18 - Defended And Covered | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. With hurrying
+  wing the mother bird hastens up to the protection of her young.
 ---
+
 
 # December 18 - Defended And Covered
 

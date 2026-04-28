@@ -1,6 +1,13 @@
 ---
+title: December 29 - He Will Carry Us Home | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The year is
+  very old, and here is a promise for our aged friends; yes, and for us all, as age
+  creeps over us.
 ---
+
 
 # December 29 - He Will Carry Us Home
 

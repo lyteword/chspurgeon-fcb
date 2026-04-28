@@ -1,6 +1,12 @@
 ---
+title: December 1 - True Walking Posture | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. His walk may
+  be slow, but it is sure.
 ---
+
 
 # December 1 - True Walking Posture
 

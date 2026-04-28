@@ -1,6 +1,12 @@
 ---
+title: December 27 - His Kindness And Covenant | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. One of the
+  most delightful qualities of divine love is its abiding character.
 ---
+
 
 # December 27 - His Kindness And Covenant
 

@@ -1,6 +1,12 @@
 ---
+title: December 5 - High Places Of Defense | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The man to
+  whom God has given grace to be of blameless life dwells in perfect security.
 ---
+
 
 # December 5 - High Places Of Defense
 

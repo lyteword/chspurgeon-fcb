@@ -1,6 +1,12 @@
 ---
+title: December 6 - "through" Not Engulfed | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. Bridge there
+  is none: we must go through the waters, and feel the rush of the rivers.'
 ---
+
 
 # December 6 - "through" Not Engulfed
 

@@ -1,6 +1,13 @@
 ---
+title: December 26 - God Only, You Can Trust | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. "Why," cries
+  one, "this is no promise of God." Just so, but it was a promise of man, and therefore
+  it came to nothing.
 ---
+
 
 # December 26 - God Only, You Can Trust
 

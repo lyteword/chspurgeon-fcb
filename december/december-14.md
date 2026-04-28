@@ -1,6 +1,12 @@
 ---
+title: December 14 - Nothing Old | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Glory be to
+  His name! All things need making new, for they are sadly battered and worn by sin.
 ---
+
 
 # December 14 - Nothing Old
 

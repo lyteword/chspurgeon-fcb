@@ -1,6 +1,13 @@
 ---
+title: December 31 - No Stranger In Heaven | Faith's Checkbook Online
+linkTitle: '31'
 weight: 31
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. From day to
+  day and from year to year my faith believes in the wisdom and love of God, and I
+  know that I shall not believe in vain.
 ---
+
 
 # December 31 - No Stranger In Heaven
 

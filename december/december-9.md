@@ -1,6 +1,13 @@
 ---
+title: December 9 - The "all" Of Belief | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Our unbelief
+  is the greatest hindrance in our way; in fact, there is no other real difficulty
+  as to our spiritual progress and prosperity.
 ---
+
 
 # December 9 - The "all" Of Belief
 

@@ -1,6 +1,13 @@
 ---
+title: December 3 - Peace Whatever Exposure | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It is the
+  height of grace that Jehovah should be in covenant with man, a feeble, sinful and
+  dying creature.
 ---
+
 
 # December 3 - Peace Whatever Exposure
 
