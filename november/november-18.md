@@ -1,6 +1,13 @@
 ---
+title: November 18 - Clearly Supernatural | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. One of the
+  best methods of the Lord's defending His people is to make them strong in inward
+  might.
 ---
+
 
 # November 18 - Clearly Supernatural
 

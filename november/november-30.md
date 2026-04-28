@@ -1,6 +1,13 @@
 ---
+title: November 30 - God Is In The Front Line | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. In the presence
+  of a great work or a great warfare, here is a text which should help us to buckle
+  on our harness.
 ---
+
 
 # November 30 - God Is In The Front Line
 

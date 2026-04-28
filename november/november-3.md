@@ -1,6 +1,12 @@
 ---
+title: November 3 - In God's Time | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Mercy may
+  seem slow, but it is sure.
 ---
+
 
 # November 3 - In God's Time
 

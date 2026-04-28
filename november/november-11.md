@@ -1,6 +1,12 @@
 ---
+title: November 11 - The Lord's Free Men | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. Sin will
+  reign if it can: it cannot be satisfied with any place below the throne of the heart.'
 ---
+
 
 # November 11 - The Lord's Free Men
 

@@ -1,6 +1,13 @@
 ---
+title: November 2 - Heavenly Wealth | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Many pleasing
+  things the Lord may withhold, but "no good thing." He is the best judge of what
+  is good for us.
 ---
+
 
 # November 2 - Heavenly Wealth
 

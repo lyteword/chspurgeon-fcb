@@ -1,6 +1,13 @@
 ---
+title: November 7 - True Humility Rewarded | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It ought not
+  to be difficult for us to humble ourselves, for what have we to be proud of? We
+  ought to take the lowest place without being told to do so.
 ---
+
 
 # November 7 - True Humility Rewarded
 

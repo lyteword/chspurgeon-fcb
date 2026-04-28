@@ -1,6 +1,12 @@
 ---
+title: November 5 - What Is Painful Will End | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Our heavenly
+  Father seeks our instruction, not our destruction.
 ---
+
 
 # November 5 - What Is Painful Will End
 

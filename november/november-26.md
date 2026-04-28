@@ -1,6 +1,13 @@
 ---
+title: November 26 - Heavenly Alchemy | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Their particular
+  sorrow was the death and absence of their Lord, and it was turned into joy when
+  He rose from the dead and showed Himself in their midst.
 ---
+
 
 # November 26 - Heavenly Alchemy
 

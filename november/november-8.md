@@ -1,6 +1,12 @@
 ---
+title: November 8 - The Magnitude Of Grace | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Our weakness
+  should be prized as making room for divine strength.
 ---
+
 
 # November 8 - The Magnitude Of Grace
 

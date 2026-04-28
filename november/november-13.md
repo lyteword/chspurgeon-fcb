@@ -1,6 +1,13 @@
 ---
+title: November 13 - The Unfailing Watch | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Jehovah is
+  "the Keeper of Israel." No form of unconsciousness ever steals over Him, neither
+  the deeper slumber nor the slighter sleep.
 ---
+
 
 # November 13 - The Unfailing Watch
 

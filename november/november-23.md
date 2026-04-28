@@ -1,6 +1,12 @@
 ---
+title: November 23 - Acquiring Perseverance | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We are not
+  to expect to win victories for the Lord Jesus by a single blow.
 ---
+
 
 # November 23 - Acquiring Perseverance
 

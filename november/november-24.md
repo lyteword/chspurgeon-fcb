@@ -1,6 +1,13 @@
 ---
+title: November 24 - Pardon And Forgiveness | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. He will chide
+  sometimes, or He would not be a wise Father for such poor erring children as we
+  are.
 ---
+
 
 # November 24 - Pardon And Forgiveness
 

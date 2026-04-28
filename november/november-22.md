@@ -1,6 +1,14 @@
 ---
+title: November 22 - No Condemnation | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. A glorious
+  word indeed! What a perfect pardon is here promised to the sinful nations of Israel
+  and Judah! Sin is to be so removed that it shall not be found, so blotted out that
+  there shall be none.
 ---
+
 
 # November 22 - No Condemnation
 

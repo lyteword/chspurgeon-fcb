@@ -1,6 +1,12 @@
 ---
+title: November 27 - Rest In All Thy Goings | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Precious promise!
+  Lord, enable me to appropriate it as all my own.
 ---
+
 
 # November 27 - Rest In All Thy Goings
 

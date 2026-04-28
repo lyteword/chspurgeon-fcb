@@ -1,6 +1,12 @@
 ---
+title: November 1 - Perfection And Preservation | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What will
+  He do? He will sanctify us wholly.
 ---
+
 
 # November 1 - Perfection And Preservation
 

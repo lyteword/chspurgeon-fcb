@@ -1,6 +1,12 @@
 ---
+title: November 15 - Limitless Riches | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Paul's God
+  is our God, and will supply all our need.
 ---
+
 
 # November 15 - Limitless Riches
 

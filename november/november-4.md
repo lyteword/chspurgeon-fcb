@@ -1,6 +1,12 @@
 ---
+title: November 4 - You Mark The Trenches | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Three armies
+  were perishing of thirst, and the Lord interposed.
 ---
+
 
 # November 4 - You Mark The Trenches
 

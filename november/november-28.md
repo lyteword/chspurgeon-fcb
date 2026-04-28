@@ -1,6 +1,12 @@
 ---
+title: November 28 - Doing What God Can Bless | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If we obey
+  the Lord our God He will bless that which He gives us.
 ---
+
 
 # November 28 - Doing What God Can Bless
 

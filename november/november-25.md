@@ -1,6 +1,13 @@
 ---
+title: November 25 - Mountains Turned To Plains | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. At this hour
+  a mountain of difficulty, distress, or necessity, may be in our way, and natural
+  reason sees no path over it, or through it, or round it.
 ---
+
 
 # November 25 - Mountains Turned To Plains
 

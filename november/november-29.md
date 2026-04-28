@@ -1,6 +1,13 @@
 ---
+title: November 29 - Know How To Wait | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. He shall make
+  haste to keep the Lord's commandments; but he shall not make haste in any impatient
+  or improper sense.
 ---
+
 
 # November 29 - Know How To Wait
 

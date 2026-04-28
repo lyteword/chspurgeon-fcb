@@ -1,6 +1,12 @@
 ---
+title: November 16 - Weapons Doomed To Fail | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. There is great
+  clatter in the forges and smithies of the enemy.
 ---
+
 
 # November 16 - Weapons Doomed To Fail
 

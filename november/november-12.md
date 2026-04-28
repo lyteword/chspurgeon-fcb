@@ -1,6 +1,12 @@
 ---
+title: November 12 - Sanctified Souls Are Satisfied | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. Note the
+  "my" which comes twice: "My people shall be satisfied with my goodness."'
 ---
+
 
 # November 12 - Sanctified Souls Are Satisfied
 

@@ -1,6 +1,13 @@
 ---
+title: November 6 - Delight And Desires | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Delight in
+  God has a transforming power, and lifts a man above the gross desires of our fallen
+  nature.
 ---
+
 
 # November 6 - Delight And Desires
 

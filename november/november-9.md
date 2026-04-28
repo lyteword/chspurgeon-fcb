@@ -1,6 +1,13 @@
 ---
+title: November 9 - Necessary Knowledge | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. To be the
+  Lord's own people is a choice blessing, but to know that we are such is a comfortable
+  blessing.
 ---
+
 
 # November 9 - Necessary Knowledge
 

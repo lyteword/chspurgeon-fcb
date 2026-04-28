@@ -1,6 +1,12 @@
 ---
+title: November 20 - Hunger Satisfied | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It is well
+  to have longings, and the more intense they are the better.
 ---
+
 
 # November 20 - Hunger Satisfied
 

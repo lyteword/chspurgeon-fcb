@@ -1,6 +1,12 @@
 ---
+title: November 17 - God Never Forsakes | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. No, nor will
+  He cast even so much as one of them.
 ---
+
 
 # November 17 - God Never Forsakes
 

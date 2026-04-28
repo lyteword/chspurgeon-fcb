@@ -1,6 +1,14 @@
 ---
+title: November 14 - The Name To Use | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What a wide
+  promise! Anything! Whether large or small, all my needs are covered by that word
+  "anything." Come, my soul, be free at the mercy seat, and hear thy Lord saying to
+  thee, "Open thy mouth wide, and I will fill it."
 ---
+
 
 # November 14 - The Name To Use
 

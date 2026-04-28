@@ -1,6 +1,12 @@
 ---
+title: November 21 - The Outward, Upward Look | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is a
+  promise of promises.
 ---
+
 
 # November 21 - The Outward, Upward Look
 

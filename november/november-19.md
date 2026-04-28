@@ -1,6 +1,12 @@
 ---
+title: November 19 - From Obedience To Blessing | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Future things
+  are hidden from us.
 ---
+
 
 # November 19 - From Obedience To Blessing
 

@@ -1,6 +1,12 @@
 ---
+title: November 10 - Walk Without Stumbling | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If the Lord
+  will not suffer it, neither men nor devils can do it.
 ---
+
 
 # November 10 - Walk Without Stumbling
 
