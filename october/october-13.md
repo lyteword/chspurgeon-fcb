@@ -1,6 +1,12 @@
 ---
+title: October 13 - If, And A Triple Promise | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Called by
+  the name of the Lord, we are nevertheless erring men and women.
 ---
+
 
 # October 13 - If, And A Triple Promise
 

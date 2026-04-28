@@ -1,6 +1,13 @@
 ---
+title: October 6 - The Leadership Of Our Guide | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Truth is like
+  a vast cavern into which we desire to enter, but we are not able to traverse it
+  alone.
 ---
+
 
 # October 6 - The Leadership Of Our Guide
 

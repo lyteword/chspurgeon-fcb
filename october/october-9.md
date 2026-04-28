@@ -1,6 +1,13 @@
 ---
+title: October 9 - What Sanctifies Our Offerings? | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The altar
+  of incense is the place where saints present their prayers and praises; and it is
+  delightful to think of it as sprinkled with the blood of the great sacrifice.
 ---
+
 
 # October 9 - What Sanctifies Our Offerings?
 

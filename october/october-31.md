@@ -1,6 +1,13 @@
 ---
+title: October 31 - Immortal Till Work Done | Faith's Checkbook Online
+linkTitle: '31'
 weight: 31
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. A fair assurance
+  this! It was no doubt based upon a promise, inwardly whispered in the Psalmist's
+  heart, which he seized upon and enjoyed.
 ---
+
 
 # October 31 - Immortal Till Work Done
 

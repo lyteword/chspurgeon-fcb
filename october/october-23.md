@@ -1,6 +1,13 @@
 ---
+title: October 23 - Harvest Of Light, Gladness | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Righteousness
+  is often costly to the man who keeps to it at all hazards, but in the end it will
+  bear its own expenses, and return an infinite profit.
 ---
+
 
 # October 23 - Harvest Of Light, Gladness
 

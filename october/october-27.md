@@ -1,6 +1,12 @@
 ---
+title: October 27 - His Service, Face, Name | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Three choice
+  blessings will be ours in the glory land.
 ---
+
 
 # October 27 - His Service, Face, Name
 

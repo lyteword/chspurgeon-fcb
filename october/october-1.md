@@ -1,6 +1,12 @@
 ---
+title: October 1 - A Covenant He Remembers | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Those who
+  fear God need not fear want.
 ---
+
 
 # October 1 - A Covenant He Remembers
 

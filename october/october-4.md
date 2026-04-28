@@ -1,6 +1,12 @@
 ---
+title: October 4 - The Mighty Magnet | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Come, ye workers,
+  be encouraged.
 ---
+
 
 # October 4 - The Mighty Magnet
 

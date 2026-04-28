@@ -1,6 +1,12 @@
 ---
+title: October 16 - One With Christ Jesus | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Jesus has
+  made the life of believers in Him as certain as His own.
 ---
+
 
 # October 16 - One With Christ Jesus
 

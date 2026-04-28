@@ -1,6 +1,13 @@
 ---
+title: October 5 - At God's Bidding | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If this be
+  true of the literal Israel, much more is it true of the spiritual Israel, the believing
+  people of God.
 ---
+
 
 # October 5 - At God's Bidding
 

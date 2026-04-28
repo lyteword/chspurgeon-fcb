@@ -1,6 +1,12 @@
 ---
+title: October 10 - Open Door Of Communion | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Saints who
+  remain faithful to the truth of God have an open door before them.
 ---
+
 
 # October 10 - Open Door Of Communion
 

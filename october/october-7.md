@@ -1,6 +1,12 @@
 ---
+title: October 7 - Always First In Fellowship | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Where He appointed
+  to meet His disciples, there He would be in due time.
 ---
+
 
 # October 7 - Always First In Fellowship
 

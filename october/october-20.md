@@ -1,6 +1,12 @@
 ---
+title: October 20 - From Every Sin | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Lord, save
+  me from my sins.
 ---
+
 
 # October 20 - From Every Sin
 

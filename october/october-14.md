@@ -1,6 +1,12 @@
 ---
+title: October 14 - Never Ashamed | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Gracious promise!
+  It is a great Joy to me to confess my Lord.
 ---
+
 
 # October 14 - Never Ashamed
 

@@ -1,6 +1,12 @@
 ---
+title: October 11 - Free To Travel | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. A solace for
+  sick saints.
 ---
+
 
 # October 11 - Free To Travel
 

@@ -1,6 +1,12 @@
 ---
+title: October 26 - Because Of Us | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. For the sake
+  of His elect the Lord withholds many judgments, and shortens others.
 ---
+
 
 # October 26 - Because Of Us
 

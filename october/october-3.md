@@ -1,6 +1,13 @@
 ---
+title: October 3 - Reflectors Of The Lord's Beauty | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The portion
+  of other men fills their bodies, and enriches their children, but the portion of
+  the believer is of another sort.
 ---
+
 
 # October 3 - Reflectors Of The Lord's Beauty
 

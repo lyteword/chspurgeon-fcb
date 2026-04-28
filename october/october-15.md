@@ -1,6 +1,12 @@
 ---
+title: October 15 - Sustained By Feeding | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We live by
+  virtue of our union with the Son of God.
 ---
+
 
 # October 15 - Sustained By Feeding
 

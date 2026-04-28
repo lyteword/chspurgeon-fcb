@@ -1,6 +1,12 @@
 ---
+title: October 12 - Mark Of Covenant Grace | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Here we read
+  of the true circumcision.
 ---
+
 
 # October 12 - Mark Of Covenant Grace
 

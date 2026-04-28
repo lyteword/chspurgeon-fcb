@@ -1,6 +1,12 @@
 ---
+title: October 28 - Sins Of Ignorance | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Because of
+  our ignorance we are not fully aware of our sins of ignorance.
 ---
+
 
 # October 28 - Sins Of Ignorance
 

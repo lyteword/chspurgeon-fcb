@@ -1,6 +1,12 @@
 ---
+title: October 18 - Tears, Then Joyful Harvest | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. Weeping
+  times are suitable for sowing: we do not want the ground to be too dry.'
 ---
+
 
 # October 18 - Tears, Then Joyful Harvest
 

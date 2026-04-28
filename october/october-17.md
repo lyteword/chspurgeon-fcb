@@ -1,6 +1,12 @@
 ---
+title: October 17 - Holy Fear | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Holy awe of
+  God's Word is at a great discount.
 ---
+
 
 # October 17 - Holy Fear
 

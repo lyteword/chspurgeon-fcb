@@ -1,6 +1,12 @@
 ---
+title: October 21 - God's Multiplication Table | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Works for
+  the Lord often begin on a small scale, and they are none the worse for this.
 ---
+
 
 # October 21 - God's Multiplication Table
 

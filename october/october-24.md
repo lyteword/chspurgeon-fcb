@@ -1,6 +1,13 @@
 ---
+title: October 24 - Godly Stability | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Stability
+  in the fear and faith of God will make a man like a wall of brass, which no one
+  can batter down or break.
 ---
+
 
 # October 24 - Godly Stability
 

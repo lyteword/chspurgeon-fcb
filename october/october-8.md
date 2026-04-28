@@ -1,6 +1,12 @@
 ---
+title: October 8 - Never Alone | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. "Forsaken"
+  is a dreary word.
 ---
+
 
 # October 8 - Never Alone
 

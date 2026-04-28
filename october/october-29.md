@@ -1,6 +1,12 @@
 ---
+title: October 29 - Maintain The Difference | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Pharoah has
+  a people, and the Lord has a people.
 ---
+
 
 # October 29 - Maintain The Difference
 

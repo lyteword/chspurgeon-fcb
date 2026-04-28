@@ -1,6 +1,14 @@
 ---
+title: October 19 - Regulated Chastisement | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. To be left
+  uncorrected would be a fatal sign: it would prove that the Lord had said, "He is
+  given unto idols, let him alone." God grant that such may never be our portion!
+  Uninterrupted prosperity is a thing to cause fear and trembling.'
 ---
+
 
 # October 19 - Regulated Chastisement
 

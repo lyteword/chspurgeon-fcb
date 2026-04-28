@@ -1,6 +1,12 @@
 ---
+title: October 2 - Comfort En Route Home | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Joseph had
+  been an incarnate providence to his brethren.
 ---
+
 
 # October 2 - Comfort En Route Home
 

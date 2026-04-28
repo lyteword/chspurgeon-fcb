@@ -1,6 +1,12 @@
 ---
+title: October 25 - God First, Then Extras | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. See how
+  the Bible opens: "In the beginning God." Let your life open in the same way.'
 ---
+
 
 # October 25 - God First, Then Extras
 

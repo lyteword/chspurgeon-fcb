@@ -1,6 +1,13 @@
 ---
+title: October 30 - Thorough Cleansing | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What an exceeding
+  joy is this! He who has purified us with the blood of Jesus will also cleanse us
+  by the water of the Holy Spirit.
 ---
+
 
 # October 30 - Thorough Cleansing
 

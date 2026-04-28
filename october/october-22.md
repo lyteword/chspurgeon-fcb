@@ -1,6 +1,12 @@
 ---
+title: October 22 - Plead His Own Promise | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is a
+  promise pleaded, and so it yields double instruction to us.
 ---
+
 
 # October 22 - Plead His Own Promise
 
