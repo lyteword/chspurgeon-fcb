@@ -1,6 +1,16 @@
 ---
+title: June 26 - It Will Not Be Long | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The last word
+  in the Canticle of love is, "Make haste, my beloved," and among the last words of
+  the Apocalypse we read, "The Spirit and the Bride say, Come"; to which the heavenly
+  Bridegroom answers, "Surely I come quickly." Love longs for the glorious appearing
+  of the Lord, and enjoys this sweet promise -- "The coming of the Lord draweth nigh."
+  This stays our minds as to the future.
 ---
+
 
 # June 26 - It Will Not Be Long
 

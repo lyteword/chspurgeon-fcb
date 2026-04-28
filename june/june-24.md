@@ -1,6 +1,13 @@
 ---
+title: June 24 - The Lord's "much More" | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If you have
+  made a mistake, bear the loss of it; but do not act contrary to the will of the
+  Lord.
 ---
+
 
 # June 24 - The Lord's "much More"
 

@@ -1,6 +1,13 @@
 ---
+title: June 5 - Is There A Difference? | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What! Has
+  God power over the tongues of dogs? Can he keep curs from barking? Yes, it is even
+  so.
 ---
+
 
 # June 5 - Is There A Difference?
 

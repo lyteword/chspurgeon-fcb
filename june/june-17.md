@@ -1,6 +1,12 @@
 ---
+title: June 17 - Our Field Of Battle | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We have no
+  enemies but the enemies of God.
 ---
+
 
 # June 17 - Our Field Of Battle
 

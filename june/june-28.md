@@ -1,6 +1,13 @@
 ---
+title: June 28 - One Look From The Lord | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What a look
+  was that which the Lord gave to Gideon! He looked him out of his discouragements
+  into a holy bravery.
 ---
+
 
 # June 28 - One Look From The Lord
 

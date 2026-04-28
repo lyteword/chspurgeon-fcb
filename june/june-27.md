@@ -1,6 +1,14 @@
 ---
+title: June 27 - Thank Him; Dwell Acceptably | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Oh, that my
+  heart may be upright, that I may always be able to bless the name of the Lord! He
+  is so good to those that be good, that I would fain be among them, and feel myself
+  full of thankfulness every day.
 ---
+
 
 # June 27 - Thank Him; Dwell Acceptably
 

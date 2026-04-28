@@ -1,6 +1,13 @@
 ---
+title: June 9 - A Trustworthy Name | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When true
+  religion is ready to die out among the wealthy it finds a home among the poor of
+  this world, rich in faith.
 ---
+
 
 # June 9 - A Trustworthy Name
 

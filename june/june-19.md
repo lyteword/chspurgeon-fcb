@@ -1,6 +1,13 @@
 ---
+title: June 19 - A Sound Heart | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We may regard
+  this inspired prayer as containing within itself the assurance that those who keep
+  close to the Word of God shall never have cause to be ashamed of doing so.
 ---
+
 
 # June 19 - A Sound Heart
 

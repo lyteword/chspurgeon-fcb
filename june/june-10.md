@@ -1,6 +1,13 @@
 ---
+title: June 10 - A Shepherd Secures Them | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yesterday
+  we thought of the afflicted and poor people whom the Lord left to be a living seed
+  in a dead world.
 ---
+
 
 # June 10 - A Shepherd Secures Them
 

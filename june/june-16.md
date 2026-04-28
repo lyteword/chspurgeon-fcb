@@ -1,6 +1,12 @@
 ---
+title: June 16 - Possess Not Only Profess | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When the Lord
+  has given to a man much grace He will give him more.
 ---
+
 
 # June 16 - Possess Not Only Profess
 

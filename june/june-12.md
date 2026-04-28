@@ -1,6 +1,12 @@
 ---
+title: June 12 - Dwelling Safely Apart | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The more we
+  dwell alone, the more safe shall we be.
 ---
+
 
 # June 12 - Dwelling Safely Apart
 

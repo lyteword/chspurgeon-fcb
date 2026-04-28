@@ -1,6 +1,12 @@
 ---
+title: June 11 - No Cause To Blush | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We shall not
+  be ashamed of our faith.
 ---
+
 
 # June 11 - No Cause To Blush
 

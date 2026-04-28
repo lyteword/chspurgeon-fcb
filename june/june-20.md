@@ -1,6 +1,12 @@
 ---
+title: June 20 - The Lord Our Companion | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Sweet are
+  these words in describing a deathbed assurance.
 ---
+
 
 # June 20 - The Lord Our Companion
 

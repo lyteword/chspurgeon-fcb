@@ -1,6 +1,12 @@
 ---
+title: June 15 - Home Blessings Extended | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is a
+  promise to the God-fearing man who walks in the ways of holiness with earnest heed.
 ---
+
 
 # June 15 - Home Blessings Extended
 

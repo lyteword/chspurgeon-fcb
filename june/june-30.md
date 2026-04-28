@@ -1,6 +1,12 @@
 ---
+title: June 30 - Back Then Forward | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Notwithstanding
+  our sins, the Lord is still faithful in His love to us.
 ---
+
 
 # June 30 - Back Then Forward
 

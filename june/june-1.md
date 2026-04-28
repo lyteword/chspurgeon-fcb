@@ -1,6 +1,14 @@
 ---
+title: June 1 - God's Promise Keeps | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We must not
+  expect to see an immediate reward for all the good we do; nor must we always confine
+  our efforts to places and persons which seem likely to yield us a recompense for
+  our labors.
 ---
+
 
 # June 1 - God's Promise Keeps
 

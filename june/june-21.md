@@ -1,6 +1,13 @@
 ---
+title: June 21 - A Woman's War | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Rather an
+  unusual text, but there may be souls in the world that may have faith enough to
+  grasp it.
 ---
+
 
 # June 21 - A Woman's War
 

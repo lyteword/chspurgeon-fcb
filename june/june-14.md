@@ -1,6 +1,12 @@
 ---
+title: June 14 - He Constantly Abides | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. God's choice
+  of His people is the reason for His abiding by them, and not forsaking them.
 ---
+
 
 # June 14 - He Constantly Abides
 

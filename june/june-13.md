@@ -1,6 +1,13 @@
 ---
+title: June 13 - Divine Cultivation | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When the Lord
+  Himself speaks in His own proper person rather than through a prophet, the word
+  has a peculiar weight to believing minds.
 ---
+
 
 # June 13 - Divine Cultivation
 

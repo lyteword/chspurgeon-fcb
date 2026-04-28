@@ -1,6 +1,13 @@
 ---
+title: June 2 - Immediate Freedom | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The Assyrian
+  was allowed for a season to oppress the Lord's people, but there came a time for
+  his power to be broken.
 ---
+
 
 # June 2 - Immediate Freedom
 

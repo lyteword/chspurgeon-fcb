@@ -1,6 +1,12 @@
 ---
+title: June 23 - The Enemy Firsthand | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Neither did
+  Sennacherib molest the city.
 ---
+
 
 # June 23 - The Enemy Firsthand
 

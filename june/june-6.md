@@ -1,6 +1,12 @@
 ---
+title: June 6 - He Always Listens | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The experience
+  here recorded is mine.
 ---
+
 
 # June 6 - He Always Listens
 

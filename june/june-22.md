@@ -1,6 +1,12 @@
 ---
+title: June 22 - He With Us; We With Him | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. There is no
+  doubt about it.
 ---
+
 
 # June 22 - He With Us; We With Him
 

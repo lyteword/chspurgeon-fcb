@@ -1,6 +1,13 @@
 ---
+title: June 3 - Sure-footedness | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This confidence
+  of the man of God is tantamount to a promise; for that which faith is persuaded
+  of is the purpose of God.
 ---
+
 
 # June 3 - Sure-footedness
 

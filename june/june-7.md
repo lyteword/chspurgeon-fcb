@@ -1,6 +1,12 @@
 ---
+title: June 7 - The Safest Place | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We believe
+  in the eternal security of the saints.
 ---
+
 
 # June 7 - The Safest Place
 

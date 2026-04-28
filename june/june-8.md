@@ -1,6 +1,12 @@
 ---
+title: June 8 - Wisdom For The Asking | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. "If any of
+  you lack wisdom." There is no "if" in the matter, for I am sure I lack it.
 ---
+
 
 # June 8 - Wisdom For The Asking
 

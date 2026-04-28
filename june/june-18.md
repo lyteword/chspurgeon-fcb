@@ -1,6 +1,13 @@
 ---
+title: June 18 - God Himself Shall Work | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When the spoilers
+  had made the land as waste as if devoured by locusts, and the warriors who had defended
+  the country sat down and wept like women, then the Lord came to the rescue.
 ---
+
 
 # June 18 - God Himself Shall Work
 

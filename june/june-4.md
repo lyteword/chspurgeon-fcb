@@ -1,6 +1,13 @@
 ---
+title: June 4 - Exceedingly Precious | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. A day is coming
+  in which the crown jewels of our great King shall be counted, that it may be seen
+  whether they answer to the inventory which His Father gave Him.
 ---
+
 
 # June 4 - Exceedingly Precious
 

@@ -1,6 +1,12 @@
 ---
+title: June 29 - Invitation To Pray | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. God encourages
+  us to pray.
 ---
+
 
 # June 29 - Invitation To Pray
 

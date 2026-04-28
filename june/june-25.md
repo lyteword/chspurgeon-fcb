@@ -1,6 +1,12 @@
 ---
+title: June 25 - A Staircase To Heaven | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, to our
+  faith this sight is plain even at this day.
 ---
+
 
 # June 25 - A Staircase To Heaven
 
