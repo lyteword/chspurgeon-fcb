@@ -1,6 +1,12 @@
 ---
+title: August 30 - Solace, Security, Satisfaction | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is not
+  so much one promise as an aggregate of promises -- a box of pearls.
 ---
+
 
 # August 30 - Solace, Security, Satisfaction
 

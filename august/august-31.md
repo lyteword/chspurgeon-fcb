@@ -1,6 +1,14 @@
 ---
+title: August 31 - Divine, Ever-living, Unchanging | Faith's Checkbook Online
+linkTitle: '31'
 weight: 31
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. All human
+  teaching and, indeed, all human beings, shall pass away as the grass of the meadow;
+  but we are here assured that the Word of the Lord is of a very different character,
+  for it shall endure for ever.
 ---
+
 
 # August 31 - Divine, Ever-living, Unchanging
 

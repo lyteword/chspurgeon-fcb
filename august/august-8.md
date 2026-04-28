@@ -1,6 +1,13 @@
 ---
+title: August 8 - Confidence Not Misplaced | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. These are
+  in prophecy the words of Messiah in the day of His obedience unto death, when He
+  gave His back to the smiters, and His cheeks to them that plucked off the hair.
 ---
+
 
 # August 8 - Confidence Not Misplaced
 

@@ -1,6 +1,12 @@
 ---
+title: August 10 - He Lowers To Raise | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. All my changes
+  come from Him who never changes.
 ---
+
 
 # August 10 - He Lowers To Raise
 

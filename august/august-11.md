@@ -1,6 +1,12 @@
 ---
+title: August 11 - Waiting, Not Running | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Blessed posture!
+  -- waiting truly and only upon the Lord.
 ---
+
 
 # August 11 - Waiting, Not Running
 

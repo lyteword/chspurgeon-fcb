@@ -1,6 +1,12 @@
 ---
+title: August 23 - Love And Seek True Wisdom | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Wisdom loves
+  her lovers, and seeks her seekers.
 ---
+
 
 # August 23 - Love And Seek True Wisdom
 

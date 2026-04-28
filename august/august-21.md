@@ -1,6 +1,12 @@
 ---
+title: August 21 - Night Of Weeping; Joyous Day | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. A moment under
+  our Father's anger seems very long, and yet it is but a moment after all.
 ---
+
 
 # August 21 - Night Of Weeping; Joyous Day
 

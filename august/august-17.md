@@ -1,6 +1,12 @@
 ---
+title: August 17 - Who Has The Majority? | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Horses and
+  chariots, and a great host, shut up the prophet in Dothan.
 ---
+
 
 # August 17 - Who Has The Majority?
 

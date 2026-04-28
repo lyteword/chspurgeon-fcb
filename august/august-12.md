@@ -1,6 +1,12 @@
 ---
+title: August 12 - Light In Darkness | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Am I in the
+  light? Then thou, O Lord, art my lamp.
 ---
+
 
 # August 12 - Light In Darkness
 

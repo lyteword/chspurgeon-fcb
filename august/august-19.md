@@ -1,6 +1,13 @@
 ---
+title: August 19 - Reward For The Righteous | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. God's judgments
+  in this life are not always clearly to be seen, for in many cases one event happeneth
+  alike to all.
 ---
+
 
 # August 19 - Reward For The Righteous
 

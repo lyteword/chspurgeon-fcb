@@ -1,6 +1,12 @@
 ---
+title: August 3 - The Right To Holy Things | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Strangers,
+  sojourners, and servants upon hire were not to eat of holy things.
 ---
+
 
 # August 3 - The Right To Holy Things
 

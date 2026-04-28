@@ -1,6 +1,12 @@
 ---
+title: August 4 - He Blesses And Keeps | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This first
+  clause of the high-priest's benediction is substantially a promise.
 ---
+
 
 # August 4 - He Blesses And Keeps
 

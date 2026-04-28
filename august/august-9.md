@@ -1,6 +1,12 @@
 ---
+title: August 9 - Pruning For Fruit-bearing | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is a
+  precious promise to one who lives for fruitfulness.
 ---
+
 
 # August 9 - Pruning For Fruit-bearing
 

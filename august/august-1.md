@@ -1,6 +1,13 @@
 ---
+title: August 1 - Covenant Reaches Children | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. O Lord, thou
+  hast made a covenant with me, thy servant, in Christ Jesus my Lord; and now, I beseech
+  thee, let my children be included in its gracious provisions.
 ---
+
 
 # August 1 - Covenant Reaches Children
 

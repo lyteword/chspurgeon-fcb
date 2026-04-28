@@ -1,6 +1,12 @@
 ---
+title: August 22 - Wrath To God's Glory | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Wicked men
+  will be wrathful.
 ---
+
 
 # August 22 - Wrath To God's Glory
 

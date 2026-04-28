@@ -1,6 +1,12 @@
 ---
+title: August 6 - Go; Take Your Property | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. There is a
+  heritage of grace which we ought to be bold enough to win for our own possession.
 ---
+
 
 # August 6 - Go; Take Your Property
 

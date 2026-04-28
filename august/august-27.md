@@ -1,6 +1,13 @@
 ---
+title: August 27 - Choice Men | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This has long
+  been the motto fixed before our eye upon the wall of our bedroom, and in many ways
+  it has also been written on our heart.
 ---
+
 
 # August 27 - Choice Men
 

@@ -1,6 +1,12 @@
 ---
+title: August 25 - Food And Rest | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Under the
+  divine shepherdry saints are fed to the full.
 ---
+
 
 # August 25 - Food And Rest
 

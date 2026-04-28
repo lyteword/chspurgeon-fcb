@@ -1,6 +1,15 @@
 ---
+title: August 29 - Plentiful Refreshment | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Oh, to have
+  one's soul under heavenly cultivation; no longer a wilderness, but a garden of the
+  Lord! Enclosed from the waste, walled around by grace, planted by instruction, visited
+  by love, weeded by heavenly discipline, and guarded by divine power, one's favored
+  soul is prepared to yield fruit unto the Lord.
 ---
+
 
 # August 29 - Plentiful Refreshment
 

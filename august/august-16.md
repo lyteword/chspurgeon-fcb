@@ -1,6 +1,12 @@
 ---
+title: August 16 - Uncover And Confess Sin | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Here is the
+  way of mercy for a guilty and repenting sinner.
 ---
+
 
 # August 16 - Uncover And Confess Sin
 

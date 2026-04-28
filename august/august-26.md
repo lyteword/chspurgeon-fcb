@@ -1,6 +1,12 @@
 ---
+title: August 26 - He Of Tender Conscience | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Some are fat
+  and flourishing, and therefore they are unkind to the feeble.
 ---
+
 
 # August 26 - He Of Tender Conscience
 

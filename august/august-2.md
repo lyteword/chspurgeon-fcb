@@ -1,6 +1,13 @@
 ---
+title: August 2 - Speak What He Teaches | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Many a true
+  servant of the Lord is slow of speech, and when called upon to plead for his Lord,
+  he is in great confusion lest he should spoil a good cause by his bad advocacy.
 ---
+
 
 # August 2 - Speak What He Teaches
 

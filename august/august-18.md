@@ -1,6 +1,13 @@
 ---
+title: August 18 - Seekers, Finders | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We need our
+  God; He is to be had for the seeking; and He will not deny Himself to any one of
+  us if we personally seek His face.
 ---
+
 
 # August 18 - Seekers, Finders
 

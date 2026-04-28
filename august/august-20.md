@@ -1,6 +1,12 @@
 ---
+title: August 20 - Deliverance Not Limited | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Eliphaz in
+  this spoke the truth of God.
 ---
+
 
 # August 20 - Deliverance Not Limited
 

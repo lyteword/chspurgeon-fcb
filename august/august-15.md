@@ -1,6 +1,12 @@
 ---
+title: August 15 - A Name Guarantee | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It is not
+  every believer who has yet learned to pray in Christ's name.
 ---
+
 
 # August 15 - A Name Guarantee
 

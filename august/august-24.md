@@ -1,6 +1,13 @@
 ---
+title: August 24 - God Above Human Philosophy | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This verse
+  is a threatening so far as the worldly-wise are concerned, but to the simple believer
+  it is a promise.
 ---
+
 
 # August 24 - God Above Human Philosophy
 

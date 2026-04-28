@@ -1,6 +1,13 @@
 ---
+title: August 14 - Child Chastisement Not Forever | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. In the family
+  of grace there is discipline, and that discipline is severe enough to make it an
+  evil and a bitter thing to sin.
 ---
+
 
 # August 14 - Child Chastisement Not Forever
 

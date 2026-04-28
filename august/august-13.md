@@ -1,6 +1,13 @@
 ---
+title: August 13 - Before And During The Call | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Quick work
+  this! The Lord hears us before we call; and often answers us in the same speedy
+  manner.
 ---
+
 
 # August 13 - Before And During The Call
 

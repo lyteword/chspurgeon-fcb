@@ -1,6 +1,12 @@
 ---
+title: August 28 - Out Of Any Circumstance | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, I must
+  and will pray.
 ---
+
 
 # August 28 - Out Of Any Circumstance
 

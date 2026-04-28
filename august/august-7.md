@@ -1,6 +1,13 @@
 ---
+title: August 7 - Rules For Prosperity | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, the Lord
+  will be with us in our holy war, but He demands of us that we strictly follow His
+  rules.
 ---
+
 
 # August 7 - Rules For Prosperity
 

@@ -1,6 +1,12 @@
 ---
+title: August 5 - Law In The Heart | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Put the law
+  into the heart, and the whole man is right.
 ---
+
 
 # August 5 - Law In The Heart
 
