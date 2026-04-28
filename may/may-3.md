@@ -1,6 +1,12 @@
 ---
+title: May 3 - Listen For The Signal | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. There are
+  signs of the Lord's moving which should move us.
 ---
+
 
 # May 3 - Listen For The Signal
 

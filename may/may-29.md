@@ -1,6 +1,13 @@
 ---
+title: May 29 - Fishers Follow Him | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Only by coming
+  after Jesus can we obtain our heart's desire, and be really useful to our fellow
+  men.
 ---
+
 
 # May 29 - Fishers Follow Him
 

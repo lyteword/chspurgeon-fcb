@@ -1,6 +1,12 @@
 ---
+title: May 8 - Help Wanted | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, there
+  is work in Christ's vineyard for old bodies.
 ---
+
 
 # May 8 - Help Wanted
 

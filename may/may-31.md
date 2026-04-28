@@ -1,6 +1,12 @@
 ---
+title: May 31 - "be Of Good Cheer" | Faith's Checkbook Online
+linkTitle: '31'
 weight: 31
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. My Lord's
+  words are true as to the tribulation.
 ---
+
 
 # May 31 - "be Of Good Cheer"
 

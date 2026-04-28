@@ -1,6 +1,12 @@
 ---
+title: May 6 - Cure For Envy | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When we see
+  the wicked prosper we are apt to envy them.
 ---
+
 
 # May 6 - Cure For Envy
 

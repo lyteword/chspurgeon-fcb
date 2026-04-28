@@ -1,6 +1,12 @@
 ---
+title: May 4 - Victory In Reverses | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This may express
+  the feeling of a man or woman down-trodden and oppressed.
 ---
+
 
 # May 4 - Victory In Reverses
 

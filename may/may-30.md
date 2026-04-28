@@ -1,6 +1,14 @@
 ---
+title: May 30 - Holy Foresight | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Ah, Lord,
+  thou wast in thy lowest state when before thy persecutors thou wast made to stand
+  like a criminal! Yet the eyes of thy faith could see beyond thy present humiliation
+  into thy future glory.
 ---
+
 
 # May 30 - Holy Foresight
 

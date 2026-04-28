@@ -1,6 +1,13 @@
 ---
+title: May 7 - Let No Evil Remain | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Israel must
+  conquer idolatrous cities, and destroy all the spoil, regarding all that had been
+  polluted by idolatry as an accursed thing to be burned with fire.
 ---
+
 
 # May 7 - Let No Evil Remain
 

@@ -1,6 +1,13 @@
 ---
+title: May 23 - Full Reliance On God | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The needy
+  cries; what else can he do? His cry is heard of God; what else need he do? Let the
+  needy reader take to crying at once, for this will be his wisdom.
 ---
+
 
 # May 23 - Full Reliance On God
 

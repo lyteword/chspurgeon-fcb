@@ -1,6 +1,12 @@
 ---
+title: May 11 - Wait For The Finals | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Some of us
+  have been like the tribe of Gad.
 ---
+
 
 # May 11 - Wait For The Finals
 

@@ -1,6 +1,12 @@
 ---
+title: May 5 - Why Remain Captive? | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. God's own
+  people may sell themselves into captivity by sin.
 ---
+
 
 # May 5 - Why Remain Captive?
 

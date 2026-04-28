@@ -1,6 +1,13 @@
 ---
+title: May 16 - We Receive As We Give | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It is not
+  meet that the man who will not forgive should be forgiven, nor shall he who will
+  not give to the poor have his own wants relieved.
 ---
+
 
 # May 16 - We Receive As We Give
 

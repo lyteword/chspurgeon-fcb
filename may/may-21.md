@@ -1,6 +1,13 @@
 ---
+title: May 21 - Rain Without Clouds? Never! | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Why, then,
+  do we dread the clouds which now darken our sky? True, for a while they hide the
+  sun, but the sun is not quenched; he will shine out again before long.
 ---
+
 
 # May 21 - Rain Without Clouds? Never!
 

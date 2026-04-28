@@ -1,6 +1,12 @@
 ---
+title: May 25 - God's Treasury | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This refers
+  first to the rain.
 ---
+
 
 # May 25 - God's Treasury
 

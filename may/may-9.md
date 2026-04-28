@@ -1,6 +1,12 @@
 ---
+title: May 9 - Trust Means Joy | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The root of
+  faith produces the flower of heart-joy.
 ---
+
 
 # May 9 - Trust Means Joy
 

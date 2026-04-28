@@ -1,6 +1,13 @@
 ---
+title: May 12 - Servants Honored | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. He who tends
+  the fig tree has figs for his pains, and he who waits on a good master has honor
+  as his reward.
 ---
+
 
 # May 12 - Servants Honored
 

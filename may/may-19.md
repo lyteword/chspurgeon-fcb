@@ -1,6 +1,13 @@
 ---
+title: May 19 - We May Speak For God | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Poor Jeremiah!
+  Yet why do we say so? The weeping prophet was one of the choicest servants of God,
+  and honored by Him above many.
 ---
+
 
 # May 19 - We May Speak For God
 

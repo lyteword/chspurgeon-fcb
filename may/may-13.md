@@ -1,6 +1,14 @@
 ---
+title: May 13 - Day Is At Hand | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Until the
+  day break, and the shadows flee away, what a blessing it is to see in Jesus "the
+  morning star"! I remember when we read in the newspapers the idle tale that the
+  star of Bethlehem had again appeared.
 ---
+
 
 # May 13 - Day Is At Hand
 

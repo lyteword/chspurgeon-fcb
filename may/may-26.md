@@ -1,6 +1,12 @@
 ---
+title: May 26 - Commonest Things Blessed | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What a promise
+  is this! To serve God is in itself a high delight.
 ---
+
 
 # May 26 - Commonest Things Blessed
 

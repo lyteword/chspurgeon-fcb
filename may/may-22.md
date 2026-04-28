@@ -1,6 +1,12 @@
 ---
+title: May 22 - Song Of Confidence | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Wretched walking
+  in the midst of trouble.
 ---
+
 
 # May 22 - Song Of Confidence
 

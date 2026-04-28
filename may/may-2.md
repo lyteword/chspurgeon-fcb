@@ -1,6 +1,13 @@
 ---
+title: May 2 - Spiritual Sowing | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Sowing looks
+  like a losing business, for we put good corn into the ground never to see it any
+  more.
 ---
+
 
 # May 2 - Spiritual Sowing
 

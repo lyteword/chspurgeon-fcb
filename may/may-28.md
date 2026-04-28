@@ -1,6 +1,12 @@
 ---
+title: May 28 - Remind God Of His Promise | Faith's Checkbook Online
+linkTitle: '28'
 weight: 28
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is the
+  sure way of prevailing with the Lord in prayer.
 ---
+
 
 # May 28 - Remind God Of His Promise
 

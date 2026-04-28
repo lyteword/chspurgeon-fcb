@@ -1,6 +1,13 @@
 ---
+title: May 27 - As The Life -- So The Fruit | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If we desire
+  to glorify our Lord by fruitfulness we must have certain things within us; for nothing
+  can come out of us which is not first of all within us.
 ---
+
 
 # May 27 - As The Life -- So The Fruit
 

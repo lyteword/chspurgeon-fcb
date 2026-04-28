@@ -1,6 +1,12 @@
 ---
+title: May 18 - Losses Overcome | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, those
+  wasted years over which we sigh shall be restored to us.
 ---
+
 
 # May 18 - Losses Overcome
 

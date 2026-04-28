@@ -1,6 +1,12 @@
 ---
+title: May 10 - Fear Only God | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Because God
+  will never leave nor forsake us, we may well be content with such things as we have.
 ---
+
 
 # May 10 - Fear Only God
 

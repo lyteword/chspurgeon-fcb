@@ -1,6 +1,12 @@
 ---
+title: May 1 - Full Of Song | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When sin is
+  pardoned, our greatest sorrow is ended, and our truest pleasure begins.
 ---
+
 
 # May 1 - Full Of Song
 

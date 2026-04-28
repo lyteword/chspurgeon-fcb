@@ -1,6 +1,12 @@
 ---
+title: May 17 - No Need To Stint | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The Book of
+  Proverbs is also a Book of Promises.
 ---
+
 
 # May 17 - No Need To Stint
 

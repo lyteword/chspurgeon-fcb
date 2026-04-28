@@ -1,6 +1,12 @@
 ---
+title: May 15 - God's High Places | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Does the Lord
+  say this to me? Yes, if I have known His name.
 ---
+
 
 # May 15 - God's High Places
 

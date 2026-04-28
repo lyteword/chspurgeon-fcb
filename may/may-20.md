@@ -1,6 +1,12 @@
 ---
+title: May 20 - We Dare Not Doubt | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This was for
+  Cyrus; but it is evermore the heritage of all the Lord's own spiritual servants.
 ---
+
 
 # May 20 - We Dare Not Doubt
 

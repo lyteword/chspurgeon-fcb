@@ -1,6 +1,12 @@
 ---
+title: May 24 - One A Majority! | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Why count
+  heads? One man with God is a majority though there be a thousand on the other side.
 ---
+
 
 # May 24 - One A Majority!
 
