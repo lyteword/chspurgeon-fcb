@@ -1,6 +1,13 @@
 ---
+title: July 17 - Valiant For Truth | Faith's Checkbook Online
+linkTitle: '17'
 weight: 17
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. "The Lord
+  is a man of war, Jehovah is his name." Those who enlist under His banner shall have
+  a Commander who will train them for the conflict, and give them both vigor and valor.
 ---
+
 
 # July 17 - Valiant For Truth
 

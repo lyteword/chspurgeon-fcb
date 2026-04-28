@@ -1,6 +1,12 @@
 ---
+title: July 6 - His Love; His Gift; His Son | Faith's Checkbook Online
+linkTitle: '6'
 weight: 6
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Of all the
+  stars in the sky the polestar is the most useful to the mariner.
 ---
+
 
 # July 6 - His Love; His Gift; His Son
 

@@ -1,6 +1,12 @@
 ---
+title: July 31 - An Appeal; Deliverance | Faith's Checkbook Online
+linkTitle: '31'
 weight: 31
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is a
+  promise indeed!
 ---
+
 
 # July 31 - An Appeal; Deliverance
 

@@ -1,6 +1,13 @@
 ---
+title: July 4 - The Word, Necessary Food | Faith's Checkbook Online
+linkTitle: '4'
 weight: 4
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If God so
+  willed it we could live without bread, even as Jesus did for forty days; but we
+  could not live without His Word.
 ---
+
 
 # July 4 - The Word, Necessary Food
 

@@ -1,6 +1,13 @@
 ---
+title: July 29 - He Routs Our Enemy | Faith's Checkbook Online
+linkTitle: '29'
 weight: 29
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. What a casting
+  out was that! Satan has lost his throne in our nature even as he lost his seat in
+  Heaven.
 ---
+
 
 # July 29 - He Routs Our Enemy
 

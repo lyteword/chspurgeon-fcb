@@ -1,6 +1,13 @@
 ---
+title: July 30 - Promise Of Future Meeting | Faith's Checkbook Online
+linkTitle: '30'
 weight: 30
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Surely He
+  will come a second time, and then, when He sees us, and we see Him, there will be
+  rejoicings indeed.
 ---
+
 
 # July 30 - Promise Of Future Meeting
 

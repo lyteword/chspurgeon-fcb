@@ -1,6 +1,12 @@
 ---
+title: July 12 - Whom, When, How To Deliver | Faith's Checkbook Online
+linkTitle: '12'
 weight: 12
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The godly
+  are tempted and tried.
 ---
+
 
 # July 12 - Whom, When, How To Deliver
 

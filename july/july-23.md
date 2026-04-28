@@ -1,6 +1,12 @@
 ---
+title: July 23 - Absolutely No Remembrance | Faith's Checkbook Online
+linkTitle: '23'
 weight: 23
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. According
+  to this gracious covenant the Lord treats His people as if they had never sinned.
 ---
+
 
 # July 23 - Absolutely No Remembrance
 

@@ -1,6 +1,12 @@
 ---
+title: July 21 - Shine As Many Stars | Faith's Checkbook Online
+linkTitle: '21'
 weight: 21
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Here is something
+  to wake me up.
 ---
+
 
 # July 21 - Shine As Many Stars
 

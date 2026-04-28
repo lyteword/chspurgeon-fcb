@@ -1,6 +1,12 @@
 ---
+title: July 16 - Word To Him Who Halts | Faith's Checkbook Online
+linkTitle: '16'
 weight: 16
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. There are
+  plenty of these lame ones, both male and female.
 ---
+
 
 # July 16 - Word To Him Who Halts
 

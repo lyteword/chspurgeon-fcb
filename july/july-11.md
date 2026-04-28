@@ -1,6 +1,12 @@
 ---
+title: July 11 - Never Separated From God | Faith's Checkbook Online
+linkTitle: '11'
 weight: 11
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, Lord,
+  we believe it; we shall never die.
 ---
+
 
 # July 11 - Never Separated From God
 

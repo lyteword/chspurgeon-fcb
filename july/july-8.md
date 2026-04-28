@@ -1,6 +1,12 @@
 ---
+title: July 8 - An Angel Encampment | Faith's Checkbook Online
+linkTitle: '8'
 weight: 8
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We cannot
+  see the angels, but it is enough that they can see us.
 ---
+
 
 # July 8 - An Angel Encampment
 

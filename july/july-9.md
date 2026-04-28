@@ -1,6 +1,12 @@
 ---
+title: July 9 - Faithful And Useful | Faith's Checkbook Online
+linkTitle: '9'
 weight: 9
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. If David spoke
+  thus, we may be sure that the Son of David will be of the same mind.
 ---
+
 
 # July 9 - Faithful And Useful
 

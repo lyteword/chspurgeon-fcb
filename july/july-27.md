@@ -1,6 +1,12 @@
 ---
+title: July 27 - More Than Mere Words | Faith's Checkbook Online
+linkTitle: '27'
 weight: 27
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Nothing of
+  man is sure; but everything of God is so.
 ---
+
 
 # July 27 - More Than Mere Words
 

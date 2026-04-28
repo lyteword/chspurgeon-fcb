@@ -1,6 +1,12 @@
 ---
+title: July 20 - Looking For Him | Faith's Checkbook Online
+linkTitle: '20'
 weight: 20
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. This is our
+  hope.
 ---
+
 
 # July 20 - Looking For Him
 

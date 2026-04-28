@@ -1,6 +1,14 @@
 ---
+title: July 5 - Complete Deliverance | Faith's Checkbook Online
+linkTitle: '5'
 weight: 5
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. When the Lord's
+  faithful ones are suffering for Him, they shall have sweet messages of love from
+  Himself, and sometimes they shall have glad tidings for those who sympathize with
+  them and help them.
 ---
+
 
 # July 5 - Complete Deliverance
 

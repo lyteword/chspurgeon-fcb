@@ -1,6 +1,12 @@
 ---
+title: July 19 - Heavy Duty Shoes | Faith's Checkbook Online
+linkTitle: '19'
 weight: 19
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. Here are
+  two things provided for the pilgrim: shoes and strength.'
 ---
+
 
 # July 19 - Heavy Duty Shoes
 

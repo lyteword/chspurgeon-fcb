@@ -1,6 +1,12 @@
 ---
+title: July 2 - Refreshing Sleep | Faith's Checkbook Online
+linkTitle: '2'
 weight: 2
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Ours is not
+  a life of anxious care, but of happy faith.
 ---
+
 
 # July 2 - Refreshing Sleep
 

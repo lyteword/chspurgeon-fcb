@@ -1,6 +1,13 @@
 ---
+title: July 18 - Wilderness Communion | Faith's Checkbook Online
+linkTitle: '18'
 weight: 18
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. The goodness
+  of God sees us allured by sin, and it resolves to try upon us the more powerful
+  allurements of love.
 ---
+
 
 # July 18 - Wilderness Communion
 

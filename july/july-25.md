@@ -1,6 +1,13 @@
 ---
+title: July 25 - Nothing To Alarm Us | Faith's Checkbook Online
+linkTitle: '25'
 weight: 25
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We cannot
+  understand all the prophecies, but yet we regard them with pleasure, and not with
+  dismay.
 ---
+
 
 # July 25 - Nothing To Alarm Us
 

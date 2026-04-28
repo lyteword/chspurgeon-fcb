@@ -1,6 +1,12 @@
 ---
+title: July 3 - A Guide All The Way | Faith's Checkbook Online
+linkTitle: '3'
 weight: 3
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. We need a
+  guide.
 ---
+
 
 # July 3 - A Guide All The Way
 

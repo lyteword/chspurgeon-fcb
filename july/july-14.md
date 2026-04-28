@@ -1,6 +1,12 @@
 ---
+title: July 14 - Burdens Cast On Him | Faith's Checkbook Online
+linkTitle: '14'
 weight: 14
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. It is a heavy
+  burden, roll it on Omnipotence.
 ---
+
 
 # July 14 - Burdens Cast On Him
 

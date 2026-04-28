@@ -1,6 +1,12 @@
 ---
+title: July 15 - The Mourner Comforted | Faith's Checkbook Online
+linkTitle: '15'
 weight: 15
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. By the valley
+  of weeping we come to Zion.
 ---
+
 
 # July 15 - The Mourner Comforted
 

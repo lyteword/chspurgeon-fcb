@@ -1,6 +1,13 @@
 ---
+title: July 22 - An Eternal Pledge | Faith's Checkbook Online
+linkTitle: '22'
 weight: 22
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Betrothment
+  unto the Lord! What an honor and a joy! My soul, is Jesus indeed thine by His own
+  condescending betrothal? Then, mark, it is for ever.
 ---
+
 
 # July 22 - An Eternal Pledge
 

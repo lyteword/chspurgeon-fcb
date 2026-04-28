@@ -1,6 +1,13 @@
 ---
+title: July 7 - A Mountain Choir | Faith's Checkbook Online
+linkTitle: '7'
 weight: 7
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. So sweet are
+  the comforts of the Lord, that not only the saints themselves may sing of them,
+  but even the Heavens and the earth may take up the song.
 ---
+
 
 # July 7 - A Mountain Choir
 

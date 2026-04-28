@@ -1,6 +1,16 @@
 ---
+title: July 1 - God With Us | Faith's Checkbook Online
+linkTitle: '1'
 weight: 1
+description: >
+  'Daily readings from Faith''s Checkbook by Charles Spurgeon. Good old
+  Jacob could no more be with Joseph, for his hour had come to die: but he left his
+  son without anxiety, for he said with confidence, "God shall be with you." When
+  our dearest relations, or our most helpful friends, are called home by death, we
+  must console ourselves with the reflection that the Lord is not departed from us,
+  but lives for us, and abides with us for ever.'
 ---
+
 
 # July 1 - God With Us
 

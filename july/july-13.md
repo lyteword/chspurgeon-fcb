@@ -1,6 +1,12 @@
 ---
+title: July 13 - Implicit Trust | Faith's Checkbook Online
+linkTitle: '13'
 weight: 13
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Behold the
+  protecting power of trust in God.
 ---
+
 
 # July 13 - Implicit Trust
 

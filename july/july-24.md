@@ -1,6 +1,13 @@
 ---
+title: July 24 - Perfect Purity | Faith's Checkbook Online
+linkTitle: '24'
 weight: 24
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Warrior of
+  the cross, fight on! Never rest till thy victory is complete, for thine eternal
+  reward will prove worthy of a life of warfare.
 ---
+
 
 # July 24 - Perfect Purity
 

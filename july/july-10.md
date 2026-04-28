@@ -1,6 +1,12 @@
 ---
+title: July 10 - Love The Church | Faith's Checkbook Online
+linkTitle: '10'
 weight: 10
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. Yes, our prayers
+  for the church will be heard.
 ---
+
 
 # July 10 - Love The Church
 

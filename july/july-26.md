@@ -1,6 +1,12 @@
 ---
+title: July 26 - A Change Of Name | Faith's Checkbook Online
+linkTitle: '26'
 weight: 26
+description: >
+  Daily readings from Faith's Checkbook by Charles Spurgeon. That day has
+  come.
 ---
+
 
 # July 26 - A Change Of Name
 
